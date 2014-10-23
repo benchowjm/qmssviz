@@ -1,0 +1,1201 @@
+"","prvblf","othblf","pubact","prvact","iden1","iden2","wave","sex","age","educ","work","ethnic","denom","marital","pubblf1","pubblf2","pubblf3","pubblf4","prvblf2","prvblf3","prvblf4","othblf2","pubact2","prvact2"
+"1",10,1,1,1,1,1,1,"Female",56,"Some College","Unemployed","White","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"2",10,4,1,1,1,1,1,"Female",42,"Degree","Full Time","White","Other","Married",3,1,3,3,1,1,1,2,1,1
+"3",10,3,2,1,1,1,1,"Female",37,"Some College","Full Time","Black","Other","Separated",1,3,4,2,1,1,1,2,1,1
+"4",7,1,2,1,1,2,1,"Female",46,"Degree","Full Time","White","Christian","Married",2,2,2,3,1,1,1,2,1,3
+"5",10,10,1,1,1,1,1,"Female",48,"Degree","Full Time","Black","Other","Married",1,2,4,1,1,1,1,2,1,1
+"6",10,3,1,1,1,1,1,"Female",38,"Some College","Full Time","Black","Other","Married",1,1,3,1,1,1,1,2,1,1
+"7",10,1,1,1,1,1,1,"Female",51,"Degree","Full Time","Black","Christian","Married",1,1,2,2,1,1,1,2,1,1
+"8",10,1,1,1,1,1,1,"Female",48,"Degree","Full Time","White","Other","Married",1,1,5,1,1,1,1,2,1,1
+"9",10,1,3,1,1,1,1,"Female",76,"Primary School","Full Time","White","Other","Separated",1,3,5,1,1,1,1,2,2,1
+"10",9,4,3,1,1,2,1,"Male",44,"Some College","Self Employed","White","Catholic","Married",1,2,5,2,1,1,1,2,2,2
+"11",7,1,6,1,1,1,1,"Female",41,"High School","Self Employed","Black","Other","Separated",2,3,2,3,1,1,1,2,1,2
+"12",10,1,1,1,1,1,1,"Female",30,"Degree","Housewife","White","Christian","Married",1,3,5,1,1,1,1,2,1,1
+"13",10,1,5,1,1,1,1,"Male",44,"Some College","Unemployed","White","None","Separated",2,1,1,1,1,1,1,2,2,2
+"14",10,7,2,1,1,1,1,"Male",41,"High School","Unemployed","Black","Other","Married",2,2,3,2,1,1,1,2,1,1
+"15",10,4,4,1,1,1,1,"Female",40,"Some College","Self Employed","White",NA,"Married",1,2,3,2,1,1,1,2,2,1
+"16",6,4,2,1,2,1,1,"Male",53,"Some College","Self Employed","Black","None","Separated",1,3,1,1,1,1,1,2,1,1
+"17",10,1,2,1,1,1,1,"Female",44,"Degree","Full Time","White","Catholic","Married",1,1,3,2,1,1,1,2,1,1
+"18",8,3,1,1,1,1,1,"Female",25,"Degree","Full Time","White","Christian","Separated",2,2,4,2,1,1,1,2,1,2
+"19",10,5,2,1,1,1,1,"Female",21,"Some College","Part Time","Other","Christian","Single",1,1,4,2,1,1,1,2,1,1
+"20",10,1,2,1,1,1,1,"Female",37,"Primary School","Full Time","White","Catholic","Married",1,1,3,3,1,1,1,2,1,1
+"21",10,1,2,1,1,1,1,"Female",45,"Some College","Full Time","White","Other","Married",2,3,2,3,1,1,1,2,1,2
+"22",10,1,3,1,1,1,1,"Female",21,"High School","Part Time","White","Other","Single",4,3,5,1,1,1,1,2,2,1
+"23",10,1,2,1,1,1,1,"Male",45,"Degree","Other","Black","Catholic","Separated",1,1,3,3,1,1,1,2,1,1
+"24",10,1,7,1,1,1,1,"Female",43,"High School","Part Time","Black","Other","Married",4,1,5,5,1,2,1,1,2,1
+"25",8,6,3,1,1,1,1,"Female",33,"Some College","Full Time","White","Judaism","Separated",1,3,1,4,1,1,1,2,1,2
+"26",10,1,1,1,1,1,1,"Male",47,"High School","Full Time","Black","Other","Married",1,1,5,1,1,1,1,2,1,1
+"27",10,1,2,1,1,1,1,"Female",37,"Degree","Full Time","White","Christian","Married",1,5,4,3,1,1,1,2,1,1
+"28",10,1,2,1,1,1,1,"Female",56,"Some College","Part Time","White","Christian","Married",2,2,5,1,1,1,1,2,1,1
+"29",5,1,6,1,1,3,1,"Female",40,"High School","Part Time","White","None","Married",3,5,2,4,1,1,1,2,2,1
+"30",10,1,3,1,2,3,1,"Female",21,"Primary School","Unemployed","Hispanic","Catholic","Married",1,4,4,4,-1,1,1,1,2,2
+"31",10,3,5,1,1,1,1,"Female",42,"Degree","Full Time","White","None","Single",2,4,3,3,1,2,1,2,2,1
+"32",10,1,3,1,1,1,1,"Male",37,"High School","Other","White","Christian","Single",1,3,2,2,1,1,1,2,2,2
+"33",9,1,6,1,1,1,1,"Female",35,"High School","Full Time","Hispanic","Other","Single",2,2,2,2,1,1,1,2,1,1
+"34",1,1,7,0,3,2,1,"Male",48,"Degree","Unemployed","White","Judaism","Single",4,4,2,4,2,2,2,2,2,3
+"35",7,3,2,1,1,1,1,"Male",40,"Degree","Full Time","Hispanic","Catholic","Married",2,2,2,4,1,1,1,2,1,2
+"36",9,2,7,1,1,2,1,"Female",44,"High School","Full Time","White","Other","Married",2,4,2,4,1,1,1,2,2,1
+"37",9,1,2,1,1,2,1,"Female",21,"High School","Part Time","White","Christian","Single",1,2,4,2,1,1,1,2,1,1
+"38",10,1,1,1,1,1,1,"Male",22,"High School","Full Time","Other","Other","Single",1,5,3,1,1,1,1,2,1,1
+"39",10,1,1,1,1,1,1,"Female",69,"High School","Unemployed","White","Other","Widowed",1,2,2,2,1,1,1,2,1,1
+"40",10,1,1,1,1,1,1,"Female",29,"Some College","Part Time","White","None","Married",1,1,2,2,1,1,1,2,1,2
+"41",10,1,2,1,1,1,1,"Female",49,"Degree","Unemployed","White","Christian","Married",2,4,2,3,1,1,1,2,1,2
+"42",10,1,1,1,1,1,1,"Female",39,"High School","Full Time","Black","Christian","Separated",1,3,2,1,1,1,1,2,1,1
+"43",10,1,2,1,1,1,1,"Male",18,"High School","Other","Black","Christian","Single",1,3,4,3,1,1,1,2,1,1
+"44",10,10,2,0,1,1,1,"Male",46,"High School","Other","Black","Christian","Married",2,4,2,4,1,1,1,2,2,1
+"45",10,1,1,1,1,1,1,"Female",24,"High School","Full Time","Black","Christian","Single",3,1,5,1,1,1,1,2,1,1
+"46",10,1,2,1,1,1,1,"Female",49,"Some College","Full Time","Black","Christian","Separated",2,2,3,2,1,1,1,2,1,1
+"47",10,1,2,1,1,1,1,"Female",79,"High School","Unemployed","White","Christian","Widowed",1,2,2,2,1,1,1,2,1,1
+"48",10,1,4,0,2,-1,1,"Female",64,"Primary School","Unemployed","White","None","Widowed",1,1,1,1,1,1,1,2,2,1
+"49",10,1,1,1,1,1,1,"Female",40,"Primary School","Housewife","White","Other","Married",1,-1,4,-1,1,1,1,2,1,2
+"50",4,3,2,0,2,4,1,"Female",43,"Some College","Part Time","Black","None","Married",4,2,2,2,2,2,2,2,2,2
+"51",10,3,3,1,2,1,1,"Male",55,"High School","Full Time","White","Christian","Married",1,4,2,4,1,1,1,2,1,1
+"52",10,1,3,1,1,1,1,"Female",33,"Primary School","Unemployed","Black","None","Married",1,4,2,2,1,1,1,2,2,1
+"53",10,1,5,1,1,1,1,"Male",27,"High School","Full Time","Black","None","Married",1,3,2,4,1,1,1,2,1,1
+"54",2,8,4,0,-1,3,1,"Female",22,"Primary School","Other","Black",NA,"Married",1,2,2,4,1,1,1,1,1,-1
+"55",10,1,1,1,1,1,1,"Female",54,"Some College","Housewife","White","Other","Married",1,2,3,1,1,1,1,2,1,1
+"56",10,1,1,1,1,1,1,"Female",46,"Some College","Part Time","White","None","Married",3,2,5,4,1,1,1,2,1,1
+"57",10,8,1,1,1,1,1,"Female",35,"High School","Full Time","Black","Other","Separated",1,4,1,1,1,1,1,1,2,2
+"58",10,3,2,1,2,3,1,"Male",27,"Some College","Full Time","Hispanic","None","Single",2,2,2,2,1,1,1,1,2,3
+"59",3,7,3,1,2,1,1,"Male",22,"Primary School","Full Time","Hispanic","Other","Separated",1,1,3,1,1,-1,1,1,2,3
+"60",6,4,4,1,1,2,1,"Female",22,"Primary School","Unemployed","Other",NA,"Married",3,2,5,3,2,-1,1,1,2,1
+"61",10,5,2,1,1,1,1,"Female",27,"High School","Full Time","Black",NA,"Married",2,1,2,2,1,1,1,2,1,1
+"62",10,3,3,1,1,1,1,"Male",21,"High School","Part Time","Black","Other","Single",2,2,4,3,1,1,1,1,2,1
+"63",8,1,4,1,1,1,1,"Female",49,"High School","Full Time","Other","Other","Separated",4,3,2,2,1,1,1,2,2,1
+"64",10,3,4,1,1,3,1,"Male",54,"Degree","Self Employed","Other","Christian","Single",3,4,3,4,1,2,1,2,1,1
+"65",10,2,1,1,1,1,1,"Female",36,"Some College","Full Time","Black","Other","Separated",1,1,4,2,1,1,1,2,1,1
+"66",10,3,3,1,1,1,1,"Male",30,"High School","Full Time","White","Catholic","Single",1,1,4,1,1,1,1,2,1,2
+"67",10,3,1,1,1,1,1,"Male",50,"High School","Full Time","Black","Christian","Single",1,4,4,4,1,1,1,2,1,1
+"68",8,4,7,1,1,2,1,"Female",48,"Degree","Self Employed","White","None","Married",4,5,2,5,1,2,-1,1,2,1
+"69",10,1,3,1,1,2,1,"Female",54,"Some College","Full Time","White","Christian","Separated",2,3,3,2,1,1,1,2,1,3
+"70",10,3,6,1,1,2,1,"Female",61,"Some College","Self Employed","Black","Christian","Married",3,3,2,4,1,1,1,2,2,1
+"71",5,4,6,0,2,2,1,"Male",74,"Degree","Unemployed","White",NA,"Separated",3,4,2,4,-1,2,1,1,2,3
+"72",10,1,5,1,1,1,1,"Female",55,"Some College","Part Time","White","Christian","Married",3,2,2,4,1,1,1,2,1,1
+"73",10,1,1,1,1,1,1,"Male",29,"Primary School","Full Time","Black","Other","Married",1,4,2,4,1,1,1,2,1,2
+"74",10,1,3,1,1,2,1,"Female",21,"Primary School","Housewife","White",NA,"Married",2,3,3,3,1,1,1,1,2,2
+"75",10,6,3,1,1,1,1,"Female",27,"High School","Housewife","Hispanic","Catholic","Married",2,1,2,4,1,1,1,2,1,2
+"76",10,1,4,1,1,1,1,"Female",55,"Primary School","Unemployed","Black","Other","Married",1,4,4,2,1,1,1,2,1,1
+"77",6,2,4,1,1,3,1,"Male",28,"High School","Full Time","White","None","Single",2,4,4,4,1,1,1,2,2,2
+"78",10,1,2,1,1,1,1,"Male",41,"Some College","Full Time","Hispanic","None","Single",3,4,1,4,1,1,1,1,1,1
+"79",10,2,1,1,1,1,1,"Female",19,"Some College","Full Time","White","Other","Single",1,4,4,2,1,1,1,2,1,2
+"80",4,1,4,0,2,3,1,"Female",23,"Some College","Full Time","White","Christian","Single",-1,4,3,4,1,-1,1,2,1,3
+"81",10,1,3,1,1,2,1,"Female",49,"High School","Full Time","Hispanic","Catholic","Married",1,1,3,1,1,1,1,2,1,1
+"82",9,1,7,1,1,2,1,"Male",53,NA,"Full Time","Black","None","Married",2,3,3,3,1,1,1,2,2,2
+"83",8,1,7,1,2,4,1,"Male",40,"High School","Full Time","White","None","Separated",4,2,1,5,1,1,1,2,2,1
+"84",10,2,7,1,1,3,1,"Female",49,"Degree","Full Time","White","Other","Separated",3,2,2,3,1,2,1,1,2,1
+"85",10,2,1,1,1,1,1,"Male",55,"Degree","Self Employed","White","Other","Married",4,1,4,4,1,1,1,2,1,1
+"86",9,1,2,1,1,1,1,"Male",38,"High School","Unemployed","White","Christian","Separated",1,1,5,1,1,1,1,2,1,1
+"87",2,1,4,1,1,1,1,"Female",62,"High School","Unemployed","White","None","Widowed",3,1,3,3,1,1,1,2,2,2
+"88",10,1,1,1,1,1,1,"Male",18,"High School","Full Time","White","Christian","Single",3,1,1,1,1,1,1,2,1,1
+"89",7,1,4,1,1,2,1,"Female",52,"High School","Unemployed","White","Christian","Married",2,4,3,4,1,1,1,2,2,2
+"90",10,1,2,1,1,1,1,"Male",71,"Degree","Unemployed","Hispanic","Catholic","Married",3,3,4,2,1,1,1,2,1,1
+"91",4,1,6,0,2,3,1,"Male",70,"High School","Unemployed","White","None","Married",3,4,1,2,2,2,2,2,2,3
+"92",10,2,2,1,1,1,1,"Male",34,"High School","Full Time","White","Other","Married",2,2,4,2,1,1,1,2,1,2
+"93",10,1,1,1,1,1,1,"Male",52,"Degree","Full Time","Black","Christian","Married",1,1,2,1,1,1,1,2,1,1
+"94",10,1,3,1,1,1,1,"Female",72,"High School","Full Time","White","Christian","Widowed",2,2,4,2,1,1,1,2,1,2
+"95",6,10,4,1,3,4,1,"Male",43,"Degree","Full Time","Other","None","Married",1,3,1,2,1,-1,-1,2,2,2
+"96",10,1,2,1,1,1,1,"Female",28,"High School","Part Time","Hispanic","Catholic","Married",1,3,2,2,1,1,1,2,1,2
+"97",10,1,2,1,1,1,1,"Male",24,"Degree","Full Time","White","Other","Single",2,2,1,2,1,1,1,2,1,1
+"98",3,1,6,0,2,3,1,"Female",41,"Some College","Self Employed","White","None","Married",2,5,1,3,2,2,1,2,2,2
+"99",10,1,2,1,1,1,1,"Female",46,"Degree","Housewife","White","Christian","Married",2,3,4,2,1,1,1,2,1,2
+"100",10,1,2,1,1,1,1,"Female",36,"Some College","Part Time","White","Christian","Married",1,3,2,1,1,1,1,2,1,2
+"101",8,2,3,1,1,2,1,"Male",32,"High School","Full Time","White","Christian","Married",3,4,4,2,1,1,1,2,2,1
+"102",10,1,1,1,1,1,1,"Male",25,"High School","Full Time","Hispanic","Christian","Married",3,1,5,1,1,1,1,2,1,1
+"103",10,1,2,1,1,1,1,"Male",75,"Degree","Unemployed","White","Catholic","Married",1,3,3,3,1,1,1,2,1,2
+"104",10,5,2,1,1,1,1,"Female",42,"High School","Full Time","Hispanic","Christian","Single",1,3,3,3,1,1,1,2,1,1
+"105",2,1,7,0,3,4,1,"Male",24,"High School","Full Time","White","None","Married",4,5,1,5,1,2,1,2,2,2
+"106",10,7,2,1,1,1,1,"Male",21,"Some College","Full Time","Other","Catholic","Single",1,3,4,4,1,1,1,2,1,1
+"107",6,6,5,1,2,2,1,"Male",25,"High School","Full Time","White","None","Single",2,4,2,4,2,1,1,1,2,1
+"108",8,4,4,1,1,2,1,"Male",21,"High School","Full Time","Other","Other","Single",1,2,1,3,1,1,1,2,2,2
+"109",1,3,7,0,2,3,1,"Male",26,"Primary School","Full Time","Hispanic","None","Single",3,5,1,3,1,-1,2,1,2,2
+"110",10,1,7,1,1,2,1,"Female",80,"High School","Unemployed","White","None","Widowed",3,4,1,5,1,2,1,2,2,1
+"111",10,5,7,1,1,2,1,"Female",53,"Degree","Full Time","White","None","Married",2,4,2,4,1,2,1,1,2,1
+"112",10,2,6,1,1,1,1,"Male",20,"High School","Part Time","White","Other","Single",2,4,3,3,1,1,1,2,1,1
+"113",8,2,6,1,1,2,1,"Male",47,"Degree","Self Employed","White","None","Separated",3,3,3,3,1,2,1,2,2,1
+"114",6,2,7,1,2,3,1,"Male",27,"Degree","Full Time","White","None","Married",3,3,3,3,1,1,1,2,2,2
+"115",8,1,7,1,1,3,1,"Female",65,"High School","Self Employed","White","None","Separated",2,4,2,4,1,2,1,2,1,2
+"116",10,1,7,1,1,1,1,"Female",29,"Primary School","Unemployed","Black","Other","Married",2,3,2,2,1,1,1,2,2,1
+"117",9,7,4,1,1,1,1,"Female",29,"Primary School","Housewife","White","Other","Separated",2,3,2,3,1,1,1,2,2,2
+"118",4,2,5,1,-1,3,1,"Male",21,"Some College","Part Time","White","None","Single",3,4,4,3,1,-1,1,1,2,1
+"119",10,2,7,1,2,3,1,"Female",41,"High School","Part Time","Hispanic","None","Single",3,5,2,4,1,2,1,1,2,1
+"120",9,2,6,1,1,1,1,"Female",44,"Primary School","Unemployed","Hispanic","None","Separated",-1,-1,4,3,1,1,1,1,2,2
+"121",10,1,2,1,1,2,1,"Male",79,"Primary School","Unemployed","White","Catholic","Married",1,4,4,2,1,1,1,2,1,1
+"122",10,1,3,1,1,1,1,"Female",32,"High School","Part Time","White","None","Married",3,3,2,2,1,1,1,2,2,1
+"123",10,1,2,1,1,1,1,"Female",64,"High School","Full Time","White","Catholic","Married",1,1,1,1,1,1,1,2,1,1
+"124",10,1,2,1,1,1,1,"Female",47,"High School","Full Time","White","Catholic","Single",1,4,3,3,1,1,1,2,1,1
+"125",10,2,2,1,1,2,1,"Male",46,"High School","Full Time","White","Christian","Single",2,2,2,1,1,1,1,2,1,1
+"126",10,1,3,1,1,1,1,"Female",62,"High School","Unemployed","White","Christian","Separated",1,1,1,3,1,1,1,2,1,1
+"127",9,7,4,1,1,1,1,"Female",63,"Degree","Full Time","White","Catholic","Married",2,1,5,1,1,1,1,2,1,1
+"128",8,1,2,0,2,1,1,"Female",46,"High School","Full Time","White","Catholic","Married",1,4,4,3,1,1,1,2,1,2
+"129",8,2,4,1,1,1,1,"Female",42,"Degree","Part Time","Black","Catholic","Married",2,3,3,3,1,1,1,2,1,1
+"130",10,1,2,1,1,1,1,"Female",31,"Some College","Full Time","White","Other","Widowed",1,3,2,1,1,1,1,2,1,1
+"131",8,5,2,1,1,1,1,"Male",37,"High School","Full Time","White","Catholic","Separated",2,1,5,1,1,1,1,2,1,1
+"132",10,5,3,1,1,1,1,"Female",19,"High School","Part Time","White","Christian","Single",1,3,3,1,1,1,1,2,1,1
+"133",10,3,3,1,1,1,1,"Male",35,"High School","Full Time","White","Other","Married",1,1,4,1,1,1,1,2,1,1
+"134",10,1,3,1,1,1,1,"Female",43,"High School","Full Time","White","Other","Single",1,3,3,3,1,1,1,2,1,2
+"135",10,7,7,1,2,2,1,"Female",75,"High School","Unemployed","White","Judaism","Married",3,4,2,4,1,2,1,1,2,1
+"136",9,1,3,1,1,1,1,"Female",67,"High School","Unemployed","White","Judaism","Married",2,3,1,5,1,1,1,2,1,1
+"137",10,1,5,1,2,1,1,"Male",76,"Some College","Part Time","White","Judaism","Married",3,2,1,4,1,-1,1,2,2,2
+"138",10,1,4,1,1,1,1,"Male",82,"High School","Self Employed","White","Judaism","Married",3,4,2,5,1,1,1,2,1,1
+"139",4,3,7,1,1,1,1,"Female",40,"Some College","Full Time","White","None","Separated",3,2,1,4,1,1,1,2,2,2
+"140",7,1,4,1,2,2,1,"Male",54,"High School","Unemployed","White","Judaism","Married",3,3,2,4,1,2,1,2,1,2
+"141",9,1,2,1,1,1,1,"Female",82,"Primary School","Unemployed","White","Judaism","Widowed",3,4,-1,4,1,2,1,-1,1,2
+"142",10,2,2,1,1,1,1,"Female",76,"High School","Unemployed","White","Catholic","Married",2,1,1,4,1,1,1,2,2,2
+"143",10,4,2,1,1,2,1,"Female",76,"High School","Unemployed","White","Catholic","Widowed",2,3,1,3,-1,-1,1,2,2,3
+"144",10,1,1,1,1,1,1,"Female",57,"High School","Unemployed","White","Judaism","Widowed",1,4,4,2,1,1,1,2,1,1
+"145",10,2,2,1,1,1,1,"Female",42,"Degree","Self Employed","Hispanic","Catholic","Separated",1,2,4,2,1,1,1,2,1,1
+"146",10,1,7,1,1,1,1,"Female",19,"Some College","Part Time","Hispanic",NA,"Single",3,2,4,3,1,-1,1,2,2,1
+"147",10,5,4,1,1,3,1,"Male",21,"Some College","Full Time","Hispanic","Catholic","Single",3,3,2,2,1,1,1,2,2,1
+"148",10,1,2,1,1,1,1,"Female",38,"High School","Self Employed","Hispanic","Christian","Married",1,3,1,2,1,1,1,2,1,1
+"149",5,1,6,1,1,4,1,"Male",23,"Degree","Part Time","White","Catholic","Single",4,3,3,3,1,1,1,2,2,1
+"150",3,4,7,1,1,4,1,"Female",59,"Some College","Unemployed","White","None","Married",4,5,1,5,1,1,1,2,2,2
+"151",8,1,7,0,1,1,1,"Male",24,"Degree","Other","Hispanic","None","Single",4,5,1,5,1,1,1,-1,2,2
+"152",10,6,4,1,1,3,1,"Male",24,"Degree","Full Time","Hispanic","Catholic","Single",4,5,1,3,1,1,1,2,2,4
+"153",1,2,7,1,2,1,1,"Male",24,"Degree","Full Time","White","None","Married",4,3,3,3,2,2,2,2,2,2
+"154",10,1,4,1,1,2,1,"Female",22,"High School","Full Time","Hispanic",NA,"Married",2,3,4,2,1,1,1,2,1,1
+"155",4,2,4,1,1,1,1,"Male",52,"Degree","Full Time","Hispanic","Catholic","Married",1,3,3,3,1,1,1,2,2,1
+"156",10,1,2,1,1,1,1,"Female",32,"Some College","Housewife","White","Christian","Married",2,2,5,1,1,1,1,2,2,2
+"157",7,6,3,1,1,1,1,"Male",51,"Degree","Full Time","White","Other","Single",2,4,5,2,1,1,1,2,1,1
+"158",7,9,2,1,2,1,1,"Female",42,"High School","Full Time","Black","Catholic","Single",4,1,3,1,1,1,1,-1,1,2
+"159",10,1,2,1,1,3,1,"Male",38,"Degree","Full Time","Other","Other","Married",2,4,2,1,1,1,1,2,1,1
+"160",10,1,1,1,1,1,1,"Male",57,"High School","Full Time","White",NA,"Married",4,1,1,1,2,1,1,2,1,1
+"161",10,2,1,1,1,1,1,"Female",43,"Degree","Full Time","Black","Other","Single",1,4,4,3,1,1,1,2,1,1
+"162",10,1,3,1,2,1,1,"Female",26,"High School","Full Time","Black","None","Single",2,4,2,2,1,1,1,2,2,1
+"163",10,10,5,1,1,1,1,"Female",34,"Degree","Self Employed","Black","None","Married",4,1,1,1,1,1,1,2,2,1
+"164",9,10,5,1,1,1,1,"Male",38,"High School","Full Time","White","None","Married",3,1,1,1,1,1,1,2,2,1
+"165",10,10,7,1,1,2,1,"Male",47,"High School","Self Employed","White","None","Single",3,4,1,4,1,1,1,2,2,1
+"166",10,1,1,1,1,1,1,"Female",33,"High School","Full Time","White","Other","Single",2,1,3,1,1,1,1,2,1,1
+"167",10,10,6,1,1,1,1,"Male",53,"Primary School","Full Time","White",NA,"Separated",4,2,1,2,1,2,1,1,2,2
+"168",9,9,4,1,1,1,1,"Male",57,"High School","Full Time","Other","None","Married",3,1,1,1,1,1,1,2,2,1
+"169",9,1,5,1,1,2,1,"Female",39,"Some College","Full Time","White","None","Married",1,3,2,2,1,1,1,2,2,1
+"170",10,7,3,1,1,1,1,"Male",36,"Degree","Full Time","White","Catholic","Separated",2,2,3,2,1,1,1,2,1,2
+"171",10,1,1,1,1,1,1,"Female",33,"Some College","Housewife","White","Christian","Married",1,2,4,2,1,1,1,2,1,1
+"172",7,2,2,1,2,2,1,"Male",58,"Degree","Full Time","White","Christian","Married",2,3,4,2,2,2,1,2,1,4
+"173",10,1,2,1,1,1,1,"Female",39,"High School","Part Time","White","Christian","Married",1,1,4,1,1,1,1,2,1,1
+"174",5,4,6,0,1,1,1,"Female",62,"High School","Housewife","White",NA,"Married",1,2,5,3,1,1,1,2,2,2
+"175",10,1,2,1,1,1,1,"Female",61,"Some College","Unemployed","White","Christian","Married",1,2,2,2,1,1,1,2,1,1
+"176",10,10,3,1,1,2,1,"Female",41,"Some College","Self Employed","Other",NA,"Married",3,2,3,3,1,1,1,2,1,1
+"177",6,4,3,1,1,1,1,"Female",61,"High School","Unemployed","White","None","Married",1,1,1,1,1,1,1,2,2,1
+"178",6,1,6,1,2,2,1,"Male",32,"Some College","Part Time","Hispanic","Catholic","Single",3,3,1,4,1,-1,1,2,2,1
+"179",10,1,1,1,1,1,1,"Female",37,"Degree","Housewife","White","Christian","Married",1,3,4,2,1,1,1,2,1,1
+"180",4,6,6,0,-1,3,1,"Female",18,"High School","Part Time","White",NA,"Married",1,1,3,2,1,1,1,2,2,3
+"181",10,1,2,1,1,1,1,"Female",48,"Primary School","Part Time","White","Catholic","Married",2,2,1,1,1,1,1,2,1,2
+"182",4,1,7,1,2,1,1,"Female",28,"High School","Full Time","Hispanic","Catholic","Single",3,2,2,5,1,1,1,1,2,1
+"183",10,1,6,1,1,1,1,"Male",28,"High School","Full Time","White","Catholic","Single",2,5,4,1,1,1,1,2,2,1
+"184",10,6,1,1,1,1,1,"Male",20,"Some College","Other","Other","Catholic","Single",1,4,5,1,1,1,1,2,1,2
+"185",7,1,2,0,2,2,1,"Female",51,"Some College","Part Time","White","Christian","Married",2,1,1,2,1,1,1,2,1,2
+"186",6,1,3,1,2,4,1,"Female",72,"Some College","Housewife","White","Other","Married",2,4,1,4,1,2,1,2,1,1
+"187",10,1,3,1,1,4,1,"Female",24,"High School","Full Time","Hispanic","None","Single",1,1,2,1,1,1,1,2,2,1
+"188",10,1,3,1,1,1,1,"Male",38,"High School","Full Time","Hispanic","None","Married",1,2,4,2,1,1,1,2,1,4
+"189",10,1,2,1,1,2,1,"Male",18,"Primary School","Part Time","White","Other","Single",2,2,2,2,1,1,1,2,2,1
+"190",10,9,7,1,1,1,1,"Female",18,"Primary School","Other","White","Catholic","Single",2,3,2,4,1,1,1,2,2,1
+"191",10,10,5,1,1,1,1,"Male",23,"Primary School","Full Time","White","None","Single",3,1,2,1,1,1,1,2,2,1
+"192",10,1,2,1,1,2,1,"Male",22,"Primary School","Full Time","White","None","Single",2,4,5,-1,1,1,1,2,1,2
+"193",8,10,5,1,1,1,1,"Female",44,"Primary School","Full Time","White","Catholic","Married",1,4,2,4,1,1,1,2,2,4
+"194",7,3,3,0,1,1,1,"Female",31,"Degree","Full Time","White","Catholic","Married",1,3,-1,5,1,1,1,2,1,1
+"195",8,1,1,1,1,1,1,"Female",36,"Degree","Part Time","White",NA,"Married",1,2,3,4,1,1,1,2,1,2
+"196",10,1,5,1,1,1,1,"Female",50,"Primary School","Full Time","White","Catholic","Married",3,4,1,4,1,1,1,1,1,1
+"197",10,3,1,1,1,2,1,"Female",26,"Primary School","Housewife","White","Other","Married",1,3,3,3,1,1,1,2,1,1
+"198",8,10,5,1,1,3,1,"Male",40,"Degree","Full Time","White","Other","Single",1,2,3,4,1,1,1,2,2,1
+"199",9,1,6,1,1,1,1,"Female",63,"Primary School","Other","White","Catholic","Married",1,3,2,3,1,1,1,2,2,1
+"200",8,1,5,1,1,1,1,"Female",37,"Degree","Full Time","White","None","Married",3,2,3,2,1,1,1,2,2,2
+"201",10,1,2,1,1,1,1,"Female",40,"Primary School","Part Time","White",NA,"Married",2,1,4,1,1,1,1,2,1,2
+"202",10,1,1,1,1,1,1,"Female",34,"Primary School","Part Time","White",NA,"Married",1,2,2,3,1,1,1,2,1,2
+"203",7,1,5,NA,1,2,1,"Female",36,NA,"Full Time","White","None","Single",2,2,3,2,1,1,1,2,2,2
+"204",9,5,3,1,1,2,1,"Male",32,"Primary School","Full Time","White","Catholic","Single",2,3,3,3,1,1,1,1,1,1
+"205",10,1,2,1,1,1,1,"Female",27,"High School","Full Time","Black","Other","Single",1,3,3,3,1,1,1,2,1,2
+"206",10,1,1,1,1,1,1,"Female",49,"High School","Full Time","White","Other","Married",2,3,4,2,1,1,1,2,1,2
+"207",7,7,7,1,2,2,1,"Male",19,"High School","Part Time","White","None","Single",1,3,3,3,1,1,1,2,2,3
+"208",10,1,2,1,1,1,1,"Female",28,"Degree","Full Time","White","Other","Married",1,3,3,3,1,1,1,2,1,1
+"209",10,1,2,1,1,1,1,"Female",52,"Degree","Full Time","White","Christian","Married",1,4,4,2,1,1,1,2,1,1
+"210",10,1,3,1,1,1,1,"Male",42,"Some College","Full Time","White","Christian","Separated",2,4,2,4,1,1,1,2,1,1
+"211",10,1,1,1,1,1,1,"Female",41,"Primary School","Part Time","White","Catholic","Married",1,1,2,2,1,1,1,2,1,1
+"212",7,2,2,0,2,2,1,"Male",48,"Degree","Full Time","White","Catholic","Married",3,4,2,4,1,1,1,2,2,1
+"213",8,1,7,1,1,3,1,"Female",45,"High School","Full Time","White","Christian","Married",4,2,1,5,1,1,1,1,2,1
+"214",9,1,3,1,1,2,1,"Male",55,"Some College","Unemployed","White","Christian","Separated",3,4,4,2,1,1,1,2,1,1
+"215",10,1,1,1,1,1,1,"Female",38,"Degree","Part Time","White","Christian","Married",1,2,4,2,1,1,1,2,1,2
+"216",7,1,3,1,1,2,1,"Male",23,"High School","Full Time","White","Other","Single",1,2,2,4,1,1,1,2,2,4
+"217",10,2,1,1,1,1,1,"Male",37,"Degree","Self Employed","Black","None","Married",1,2,4,1,1,1,1,2,1,1
+"218",10,7,4,1,1,1,1,"Female",24,"High School","Full Time","Black","None","Single",1,1,3,1,1,1,1,2,2,1
+"219",10,5,2,1,1,1,1,"Male",25,"Some College","Full Time","Black","Christian","Single",1,1,2,4,1,1,1,2,1,3
+"220",10,1,3,0,1,1,1,"Female",21,"High School","Part Time","Black","None","Single",1,2,2,2,1,1,1,2,2,1
+"221",10,6,3,1,1,1,1,"Female",21,"High School","Full Time","White","None","Single",2,3,3,3,1,1,1,2,1,3
+"222",10,1,4,1,1,1,1,"Female",26,"High School","Full Time","White","Other","Single",3,1,3,1,1,1,1,1,2,1
+"223",10,2,1,1,1,1,1,"Female",52,"High School","Part Time","White","Other","Single",1,1,4,1,1,1,1,2,1,1
+"224",10,7,1,1,2,1,1,"Female",43,"High School","Full Time","White","Other","Married",1,1,3,1,1,1,1,2,1,2
+"225",7,4,2,0,1,1,1,"Male",33,"High School","Self Employed","Black","Other","Single",1,2,4,3,1,2,1,2,1,3
+"226",9,8,2,1,2,2,1,"Male",19,"Primary School","Full Time","Black","Other","Single",1,2,2,2,1,1,1,2,1,2
+"227",10,1,1,1,1,1,1,"Female",37,"Primary School","Full Time","Black","Other","Married",1,3,3,3,1,1,1,2,1,1
+"228",9,7,3,1,2,2,1,"Male",34,"Primary School","Full Time","Black","None","Married",2,3,3,3,1,1,1,2,2,1
+"229",10,1,1,1,1,1,1,"Male",66,"Degree","Unemployed","White","Christian","Single",2,3,2,2,1,1,1,2,1,1
+"230",10,1,1,1,1,1,1,"Female",40,"Primary School","Unemployed","White","Christian","Married",2,2,5,1,1,1,1,2,1,1
+"231",10,4,1,1,1,1,1,"Female",55,"Some College","Full Time","Black",NA,"Single",1,1,1,1,1,1,1,2,1,1
+"232",10,1,3,1,1,1,1,"Female",43,"Primary School","Full Time","Black","Other","Single",1,3,3,3,1,1,1,2,1,2
+"233",10,1,2,1,1,1,1,"Female",19,"Some College","Part Time","Black","Catholic","Single",1,5,-1,1,1,1,1,2,2,2
+"234",9,1,3,1,1,1,1,"Female",22,"Primary School","Other","Black","Other","Single",2,2,2,2,1,1,1,2,1,3
+"235",9,1,4,1,1,2,1,"Male",19,"Primary School","Full Time","White","None","Married",3,4,2,4,1,1,1,2,2,1
+"236",10,1,1,1,1,1,1,"Female",53,"High School","Full Time","Black","Christian","Single",1,4,4,2,1,1,1,2,1,1
+"237",7,1,3,1,1,2,1,"Female",50,"Degree","Full Time","White","Other","Married",2,4,4,4,1,1,1,2,1,2
+"238",8,1,7,1,2,2,1,"Female",39,"High School","Full Time","Black",NA,"Single",3,4,2,4,1,1,1,2,2,2
+"239",9,6,6,1,1,2,1,"Male",78,"Some College","Full Time","White","None","Married",3,2,1,4,1,1,1,2,2,2
+"240",6,1,3,1,-1,2,1,"Male",22,"Some College","Self Employed","White","Catholic","Single",3,5,2,-1,1,1,1,2,2,2
+"241",10,1,3,1,1,1,1,"Female",59,"Some College","Part Time","White","Christian","Married",2,3,3,2,1,-1,1,2,1,1
+"242",8,1,1,1,1,1,1,"Male",75,"Degree","Part Time","White","Catholic","Married",2,3,4,2,1,1,1,2,1,2
+"243",9,1,5,1,1,2,1,"Male",31,"Some College","Full Time","White","Christian","Separated",2,3,2,3,1,2,1,2,2,2
+"244",6,1,4,1,2,2,1,"Female",49,"Degree","Full Time","White","Judaism","Separated",4,2,3,4,-1,-1,1,2,1,1
+"245",6,2,3,1,1,3,1,"Female",56,"Degree","Full Time","White","Christian","Married",2,4,3,3,1,2,1,2,1,2
+"246",10,1,3,1,1,2,1,"Female",66,"Degree","Part Time","White","Judaism","Married",-1,3,3,3,1,2,1,2,1,1
+"247",2,2,6,1,2,4,1,"Male",61,"Degree","Full Time","White","Other","Married",3,5,3,4,-1,-1,2,2,2,2
+"248",10,1,4,1,2,3,1,"Female",46,"Degree","Full Time","White","Christian","Married",4,3,1,3,1,2,1,2,2,1
+"249",8,1,2,1,1,1,1,"Female",47,"Degree","Part Time","White","Judaism","Married",2,3,2,4,1,2,1,2,1,1
+"250",3,1,3,1,1,3,1,"Female",46,"Degree","Part Time","White","Catholic","Married",2,5,2,4,1,2,1,2,1,1
+"251",1,1,7,0,2,4,1,"Female",27,"Some College","Full Time","White","None","Married",3,4,2,4,-1,-1,-1,2,2,2
+"252",9,2,6,1,-1,3,1,"Male",29,"Degree","Full Time","White","Other","Single",3,4,2,4,1,2,1,1,2,1
+"253",5,2,2,1,1,1,1,"Female",26,"Some College","Full Time","Black","Christian","Single",1,5,1,4,1,1,1,1,1,1
+"254",10,1,2,1,1,1,1,"Female",34,"Some College","Housewife","White","Other","Married",2,2,2,4,1,1,1,2,1,1
+"255",10,1,1,1,1,1,1,"Female",66,"High School","Part Time","White","Other","Widowed",2,4,1,3,1,-1,1,2,1,1
+"256",8,1,5,1,1,2,1,"Female",24,"Degree","Other","White","Christian","Married",2,4,2,4,1,1,1,2,2,1
+"257",5,3,1,1,1,2,1,"Male",43,"High School","Full Time","White","Other","Married",1,5,1,5,2,2,1,1,2,1
+"258",10,1,6,1,2,1,1,"Male",28,"High School","Full Time","Black",NA,"Single",1,3,1,2,1,1,1,2,1,1
+"259",10,2,3,1,1,-1,1,"Male",44,"Some College","Full Time","Black",NA,"Married",1,3,4,2,1,1,1,2,1,2
+"260",1,1,7,0,2,4,1,"Male",30,"Primary School","Part Time","White","None","Married",4,3,3,3,2,2,2,2,2,3
+"261",7,1,2,1,1,2,1,"Male",18,"High School","Other","Other","Catholic","Single",2,3,2,3,1,1,1,2,1,2
+"262",8,8,4,0,1,1,1,"Male",18,"Primary School","Other","Black","Christian","Single",2,4,2,4,1,1,1,-1,1,3
+"263",10,2,-1,1,1,1,1,"Male",30,"Primary School","Full Time","White","Other","Married",2,3,2,3,1,1,1,2,1,3
+"264",5,3,1,1,1,2,1,"Female",40,"Some College","Full Time","White","Other","Married",2,5,1,5,1,2,1,-1,1,2
+"265",-1,1,7,1,2,4,1,"Male",38,"Degree","Unemployed","Black",NA,"Single",4,3,3,3,1,-1,1,1,2,1
+"266",10,1,3,1,1,1,1,"Male",65,"Some College","Self Employed","White","Christian","Married",2,4,4,2,1,1,1,2,1,2
+"267",10,1,2,0,1,1,1,"Female",68,"High School","Full Time","White","Catholic","Separated",2,2,2,2,1,1,1,2,1,3
+"268",10,4,1,1,2,1,1,"Male",35,"Some College","Full Time","Black","Catholic","Single",1,1,4,1,1,1,1,2,2,1
+"269",10,1,2,1,1,1,1,"Female",48,"Degree","Part Time","White","Catholic","Married",2,2,4,1,1,1,1,2,1,1
+"270",10,1,6,1,2,1,1,"Female",32,"High School","Full Time","Black","None","Married",2,3,2,3,1,1,1,2,2,3
+"271",10,1,1,1,1,1,1,"Female",72,"Degree","Part Time","White","Catholic","Married",2,1,3,3,1,1,1,2,1,1
+"272",5,2,4,1,1,2,1,"Female",37,"High School","Self Employed","White","Catholic","Single",3,4,3,4,1,1,1,1,2,1
+"273",10,7,5,1,3,2,1,"Female",21,"Primary School","Unemployed","White","None","Married",1,2,2,2,1,1,-1,2,2,1
+"274",10,6,2,1,1,1,1,"Female",20,"High School","Other","Other","None","Married",2,1,5,3,1,1,1,2,2,1
+"275",10,1,2,1,1,1,1,"Male",80,"High School","Unemployed","White","Catholic","Married",1,4,2,2,1,1,1,2,1,1
+"276",1,5,7,0,2,3,1,"Male",30,"High School","Full Time","White","None","Married",4,5,1,5,1,2,2,2,2,1
+"277",8,7,2,0,3,1,1,"Female",51,"High School","Full Time","Black",NA,"Separated",2,2,2,2,1,1,2,2,1,3
+"278",10,6,3,1,1,1,1,"Female",22,"High School","Part Time","Black","Other","Married",1,4,2,5,1,1,1,-1,1,3
+"279",10,8,2,1,1,1,1,"Female",24,"Some College","Full Time","Black","Other","Married",1,1,2,1,1,1,1,1,1,2
+"280",10,1,6,1,-1,2,1,"Male",29,"Some College","Full Time","Black","Other","Married",1,3,3,3,1,1,1,2,2,2
+"281",10,9,2,1,1,1,1,"Male",20,"High School","Part Time","Black","None","Single",1,4,4,2,1,1,1,2,1,1
+"282",10,1,1,1,1,1,1,"Male",34,"Degree","Full Time","White","Christian","Single",1,2,5,1,1,1,1,2,1,1
+"283",10,1,1,1,1,1,1,"Female",27,"High School","Unemployed","Black","None","Separated",1,1,4,2,1,1,1,2,1,2
+"284",10,1,1,1,1,1,1,"Female",64,"High School","Unemployed","Black","Other","Married",2,1,2,4,1,1,1,2,1,1
+"285",10,1,1,1,1,1,1,"Female",42,"High School","Full Time","Black","Other","Separated",2,1,1,1,1,1,1,2,1,1
+"286",10,5,2,1,1,1,1,"Female",28,"Primary School","Unemployed","Black","Other","Single",1,2,2,2,1,1,1,2,2,2
+"287",10,1,5,1,1,1,1,"Female",51,"Degree","Housewife","Black","Christian","Married",2,2,3,3,1,1,1,2,2,2
+"288",10,5,7,1,1,1,1,"Female",26,"High School","Full Time","Black",NA,"Single",2,2,3,3,1,1,1,2,1,1
+"289",10,1,1,1,1,1,1,"Female",29,"Some College","Housewife","White","Other","Married",1,1,4,1,1,1,1,2,1,1
+"290",10,1,2,1,1,1,1,"Female",43,"Primary School","Housewife","White","Catholic","Married",2,1,3,2,1,-1,1,2,1,2
+"291",8,1,2,1,1,1,1,"Male",58,"Primary School","Unemployed","White","Catholic","Separated",2,4,1,4,1,1,1,2,1,3
+"292",10,1,2,1,1,1,1,"Female",39,"Degree","Housewife","White","Other","Married",2,4,4,2,1,1,1,2,1,2
+"293",10,1,1,1,1,1,1,"Male",38,"Degree","Full Time","White",NA,"Married",2,3,4,2,1,1,1,2,1,1
+"294",10,1,2,1,1,1,1,"Female",38,"Some College","Full Time","White","Catholic","Separated",2,3,3,3,1,1,1,2,1,1
+"295",8,1,2,1,1,1,1,"Female",74,"Primary School","Unemployed","White","Christian","Widowed",2,4,4,2,1,1,1,2,1,1
+"296",1,1,5,0,1,2,1,"Female",58,"Primary School","Full Time","White","Catholic","Separated",2,4,3,3,1,1,1,2,2,1
+"297",10,1,1,1,1,1,1,"Female",68,"Some College","Unemployed","White","Christian","Widowed",1,3,4,3,1,1,1,2,1,2
+"298",10,3,4,1,1,1,1,"Female",20,"Primary School","Full Time","White","Other","Single",1,1,2,2,1,1,1,2,2,2
+"299",10,1,1,1,1,1,1,"Female",34,"Some College","Housewife","White","Christian","Married",2,4,5,1,1,1,1,2,1,1
+"300",10,1,2,1,1,1,1,"Male",38,"Degree","Full Time","Hispanic","Catholic","Married",2,4,2,4,1,1,1,2,1,1
+"301",6,1,7,0,2,2,1,"Female",28,"Degree","Full Time","White","Catholic","Single",3,4,4,4,1,1,1,2,1,2
+"302",8,1,3,1,1,2,1,"Male",64,"Primary School","Unemployed","White","Catholic","Married",2,3,2,3,1,1,1,2,1,2
+"303",5,1,3,1,1,2,1,"Female",65,"Some College","Housewife","White","Christian","Married",2,4,2,4,1,2,1,2,1,1
+"304",10,6,1,1,1,1,1,"Male",27,"Primary School","Full Time","Black","Other","Single",3,2,2,2,1,1,1,2,1,1
+"305",9,2,7,1,1,3,1,"Female",49,"Degree","Part Time","White","Christian","Married",2,4,4,2,1,1,1,2,2,1
+"306",10,1,2,1,1,1,1,"Female",64,"Degree","Unemployed","White","Catholic","Widowed",2,2,4,4,1,1,1,2,1,1
+"307",2,2,7,1,2,3,1,"Male",70,"Degree","Unemployed","White","None","Married",3,5,2,4,-1,2,1,1,2,1
+"308",10,3,2,1,1,1,1,"Male",49,"Degree","Full Time","White","Catholic","Married",2,2,2,2,1,1,1,2,1,1
+"309",10,1,4,1,1,1,1,"Female",60,"Primary School","Part Time","White","Catholic","Married",2,3,2,2,1,1,1,2,2,1
+"310",7,2,6,1,1,3,1,"Male",78,"Some College","Unemployed","White","None","Single",3,4,2,3,-1,-1,1,1,2,2
+"311",10,1,6,1,1,1,1,"Female",61,"Degree","Unemployed","White","Catholic","Married",2,3,1,5,1,1,1,2,2,1
+"312",8,3,2,1,1,2,1,"Female",40,"High School","Part Time","White","Catholic","Married",2,3,2,3,1,1,1,2,1,2
+"313",8,6,4,0,1,1,1,"Male",24,"Some College","Part Time","White","Catholic","Single",2,3,2,3,1,1,1,2,1,2
+"314",3,1,7,1,2,3,1,"Female",41,"High School","Part Time","White","Catholic","Married",3,3,4,2,1,-1,1,2,2,2
+"315",10,1,1,1,1,1,1,"Female",56,"Degree","Part Time","White","Catholic","Married",2,2,4,2,1,1,1,2,1,1
+"316",10,1,2,1,1,2,1,"Female",45,"Degree","Part Time","White","Catholic","Married",2,3,2,3,1,1,1,2,1,2
+"317",10,1,6,1,1,2,1,"Male",35,"Some College","Self Employed","White","Catholic","Single",2,3,5,1,1,1,1,2,2,1
+"318",3,1,4,1,1,2,1,"Male",51,"High School","Full Time","White","Catholic","Married",2,1,2,1,1,1,1,2,2,2
+"319",10,1,2,1,1,1,1,"Female",57,"Some College","Unemployed","Black","Christian","Widowed",1,1,2,1,1,1,1,2,2,1
+"320",10,1,7,1,1,2,1,"Female",59,"Primary School","Full Time","White","None","Married",3,3,2,2,1,1,1,2,2,3
+"321",7,1,6,1,1,2,1,"Male",64,"Primary School","Full Time","White","Catholic","Married",3,4,3,3,1,2,1,2,2,2
+"322",10,9,2,1,1,1,1,"Male",51,"Degree","Full Time","Black","Christian","Married",1,2,4,1,1,1,1,2,1,2
+"323",9,4,4,1,1,2,1,"Male",31,"Degree","Self Employed","White","Catholic","Single",2,5,4,4,1,1,1,1,1,1
+"324",7,5,7,1,1,3,1,"Female",23,"High School","Part Time","White","Catholic","Single",2,5,1,5,1,2,1,2,2,2
+"325",10,1,2,1,1,1,1,"Female",49,"Degree","Self Employed","White","Catholic","Married",1,3,4,2,1,1,1,2,1,2
+"326",10,-1,6,1,1,1,1,"Female",32,"Some College","Full Time","White",NA,"Married",1,3,3,3,1,1,1,2,2,-1
+"327",8,1,3,1,1,3,1,"Male",36,"Degree","Full Time","White","Christian","Married",3,4,3,4,1,1,1,2,1,1
+"328",10,7,2,1,1,1,1,"Female",56,"Primary School","Housewife","White",NA,"Married",1,1,3,2,1,1,1,2,1,2
+"329",10,5,7,1,1,4,1,"Male",50,"Degree","Full Time","Hispanic","None","Married",3,3,4,2,1,1,1,2,2,1
+"330",10,3,2,1,1,1,1,"Female",57,"High School","Unemployed","White","Catholic","Married",2,1,3,1,1,1,1,2,2,2
+"331",10,1,2,1,1,1,1,"Female",18,"High School","Other","Black","Other","Single",1,3,3,2,1,1,1,2,1,1
+"332",1,1,2,1,2,2,1,"Male",55,"Degree","Full Time","White","Christian","Married",2,4,1,4,2,2,2,-1,1,2
+"333",8,5,3,1,1,2,1,"Male",51,"Some College","Full Time","White","Catholic","Married",2,4,1,4,1,1,1,2,1,3
+"334",10,1,2,1,1,1,1,"Male",42,"Degree","Other","White","Catholic","Single",2,3,4,2,1,1,1,2,1,2
+"335",10,1,4,1,1,1,1,"Male",42,"Some College","Full Time","White","Catholic","Married",1,3,3,2,1,1,1,2,1,1
+"336",8,3,3,1,1,2,1,"Male",51,"High School","Full Time","White","Catholic","Separated",2,3,1,3,1,1,1,2,1,2
+"337",4,1,6,1,2,2,1,"Male",34,"High School","Full Time","Black","None","Separated",1,2,2,4,1,2,1,2,2,1
+"338",5,1,3,1,1,2,1,"Female",43,"Degree","Housewife","White","Other","Married",2,5,1,5,1,1,1,2,1,1
+"339",6,2,4,0,2,2,1,"Female",49,"Degree","Unemployed","White","Judaism","Married",2,5,2,4,1,1,-1,2,2,2
+"340",10,1,4,1,1,2,1,"Female",49,"Degree","Housewife","White","Judaism","Married",2,4,2,3,1,1,1,2,2,3
+"341",10,1,3,1,1,1,1,"Female",35,"Primary School","Full Time","Black","None","Married",-1,4,2,2,1,1,1,2,2,1
+"342",10,1,3,1,1,1,1,"Female",22,"Primary School","Full Time","Black","Other","Single",1,4,2,2,1,1,1,2,1,1
+"343",8,8,2,1,1,2,1,"Male",49,"Degree","Full Time","White","Judaism","Married",1,4,2,4,1,1,1,2,1,1
+"344",10,8,3,1,1,1,1,"Male",35,"High School","Full Time","White","Catholic","Single",1,1,2,2,1,1,1,2,1,1
+"345",6,1,4,1,1,2,1,"Female",42,"Degree","Full Time","White","Judaism","Married",2,4,2,5,1,1,1,2,1,1
+"346",6,2,4,0,2,2,1,"Female",40,"Degree","Full Time","White","Judaism","Single",2,3,3,3,1,1,1,2,1,2
+"347",5,4,4,0,2,3,1,"Male",43,"High School","Full Time","White","Judaism","Married",3,4,1,4,1,2,-1,2,1,2
+"348",10,1,1,1,1,1,1,"Female",32,"Some College","Full Time","Black","Other","Married",1,4,3,3,2,1,1,2,1,1
+"349",5,6,5,1,2,2,1,"Male",22,"Some College","Part Time","White","Judaism","Single",2,3,1,3,1,2,1,2,2,3
+"350",10,5,2,1,1,1,1,"Male",28,"Degree","Full Time","White","Catholic","Single",1,1,1,1,1,1,1,2,1,1
+"351",10,1,3,1,1,2,1,"Female",33,"Degree","Self Employed","White","Catholic","Married",2,4,2,5,1,1,1,2,1,3
+"352",3,4,7,1,-1,3,1,"Female",21,"Degree","Other","White","Judaism","Single",4,5,1,5,1,2,2,2,2,2
+"353",6,3,7,0,2,2,1,"Male",22,"High School","Part Time","White","Judaism","Single",2,2,2,3,1,2,1,2,2,2
+"354",6,2,3,0,2,2,1,"Female",42,"Degree","Full Time","White","Judaism","Married",1,4,1,4,2,1,1,2,1,2
+"355",2,1,7,0,2,3,1,"Female",23,"Degree","Unemployed","White","Judaism","Single",2,3,2,3,1,2,2,2,2,2
+"356",10,1,3,1,1,1,1,"Male",51,"Degree","Full Time","Black","Catholic","Married",-1,4,2,4,1,1,1,2,1,1
+"357",10,1,2,1,1,1,1,"Female",65,"Primary School","Unemployed","White","Catholic","Married",1,4,2,-1,1,1,1,2,2,1
+"358",9,1,4,1,1,1,1,"Male",24,"Primary School","Full Time","White","Catholic","Single",2,5,2,4,1,1,1,2,2,1
+"359",1,1,7,0,2,4,1,"Female",21,"Some College","Full Time","White","None","Single",3,4,2,-1,-1,2,-1,1,2,2
+"360",6,10,4,1,1,2,1,"Female",52,"Degree","Full Time","White","Judaism","Separated",4,5,4,3,1,1,1,2,1,2
+"361",10,3,2,1,1,1,1,"Female",44,"Some College","Full Time","White","Catholic","Separated",1,1,4,1,1,1,1,2,1,2
+"362",7,7,3,1,2,3,1,"Female",30,"Primary School","Housewife","White","Christian","Married",2,3,3,3,1,1,1,2,1,2
+"363",10,1,3,1,1,2,1,"Female",34,"High School","Housewife","White","Catholic","Married",1,4,2,3,1,1,1,2,1,2
+"364",10,1,2,1,1,1,1,"Male",31,"Primary School","Full Time","White","Christian","Separated",2,1,4,1,1,1,1,2,1,1
+"365",2,2,4,0,2,3,1,"Female",23,"Degree","Full Time","White","Catholic","Separated",3,3,2,4,1,2,2,2,2,1
+"366",3,3,7,0,2,3,1,"Female",57,"Degree","Part Time","White","Judaism","Married",3,3,2,2,1,2,1,2,2,2
+"367",1,1,7,0,2,4,1,"Female",51,"High School","Housewife","White","None","Married",2,4,4,4,1,2,-1,2,2,2
+"368",10,1,7,1,1,1,1,"Female",46,"Primary School","Other","White","None","Married",2,1,3,2,1,1,1,2,2,1
+"369",1,5,2,1,2,3,1,"Female",40,"High School","Part Time","White","Other","Married",3,5,1,5,2,2,2,2,1,1
+"370",9,1,2,1,1,1,1,"Male",28,"Degree","Full Time","White","Other","Married",1,3,3,3,1,1,1,2,1,-1
+"371",10,10,4,1,1,1,1,"Female",49,"High School","Full Time","White","Catholic","Married",1,1,3,3,1,1,1,2,1,1
+"372",10,1,2,1,1,1,1,"Male",58,"Degree","Part Time","White","Christian","Married",1,2,1,1,1,1,1,2,1,1
+"373",10,2,2,1,1,1,1,"Female",71,"High School","Unemployed","White","Catholic","Separated",2,2,4,3,1,1,1,2,1,1
+"374",3,1,4,1,2,3,1,"Female",65,"Degree","Unemployed","White","Judaism","Separated",4,5,1,5,1,2,1,2,2,1
+"375",7,1,7,1,2,3,1,"Male",61,"High School","Unemployed","White","Judaism","Married",2,4,2,5,1,-1,1,2,2,2
+"376",7,3,3,1,1,2,1,"Female",53,"High School","Housewife","White","Christian","Married",2,3,2,3,1,1,1,2,2,2
+"377",10,1,2,1,1,1,1,"Female",38,"Some College","Housewife","White","Catholic","Married",1,2,4,2,1,1,1,2,1,1
+"378",10,1,6,1,1,1,1,"Male",25,"High School","Full Time","Black","None","Single",1,4,2,3,1,1,1,2,2,1
+"379",8,1,1,1,1,1,1,"Female",43,"Some College","Self Employed","White","Judaism","Married",2,3,1,4,1,1,1,2,1,3
+"380",6,1,4,1,-1,2,1,"Female",19,"Degree","Part Time","White","Catholic","Single",3,3,3,3,1,1,1,2,1,3
+"381",1,10,7,1,3,4,1,"Male",49,"High School","Unemployed","White","Judaism","Separated",4,5,1,5,1,2,2,1,2,1
+"382",8,9,6,1,1,1,1,"Female",45,"High School","Full Time","White","Judaism","Married",2,3,2,2,1,1,1,2,2,2
+"383",4,2,6,0,2,3,1,"Female",48,"Degree","Full Time","White","Judaism","Married",3,4,4,4,1,2,1,2,2,3
+"384",10,1,4,1,1,2,1,"Female",67,"High School","Unemployed","White","Catholic","Widowed",1,4,1,4,1,1,1,2,1,1
+"385",9,5,2,1,1,2,1,"Female",72,"Degree","Unemployed","White","Catholic","Widowed",2,4,2,4,1,1,1,2,1,1
+"386",10,2,3,1,1,1,1,"Female",32,"High School","Part Time","White","Christian","Married",2,5,4,3,1,1,1,2,1,2
+"387",10,2,6,1,1,2,1,"Female",39,"Degree","Full Time","White","Judaism","Married",3,4,3,4,1,1,1,2,2,2
+"388",1,5,7,0,2,4,1,"Female",47,"Degree","Full Time","White","None","Separated",3,3,2,4,1,2,2,1,2,2
+"389",7,3,5,1,1,2,1,"Female",42,"Degree","Part Time","White","Judaism","Married",2,5,4,5,1,2,1,2,2,1
+"390",10,6,3,1,1,1,1,"Female",45,"Some College","Full Time","White","Other","Married",1,1,5,1,1,-1,1,2,1,2
+"391",10,1,4,1,1,2,1,"Male",18,"Some College","Part Time","White","Catholic","Single",1,3,3,3,1,1,1,2,2,-1
+"392",10,1,1,1,1,1,1,"Female",50,"Some College","Part Time","White","Other","Married",4,1,3,3,1,1,1,2,1,1
+"393",8,1,2,1,1,1,1,"Female",36,"Some College","Unemployed","White","Catholic","Married",1,4,2,4,1,1,1,2,2,1
+"394",10,1,4,1,-1,1,1,"Female",39,"Primary School","Full Time","White","Judaism","Separated",2,1,4,2,1,1,1,2,1,2
+"395",3,7,7,1,2,3,1,"Male",24,"Some College","Full Time","White","Catholic","Single",2,4,1,5,1,-1,1,2,2,3
+"396",1,5,7,0,3,4,1,"Male",25,"High School","Full Time","White","None","Single",4,3,1,4,2,2,2,2,2,4
+"397",10,1,2,1,1,1,1,"Female",50,"Some College","Other","White","Christian","Separated",2,2,4,1,1,1,1,2,1,2
+"398",5,1,7,1,2,4,1,"Male",67,"Degree","Unemployed","White","Christian","Married",3,5,1,5,1,1,1,2,2,1
+"399",10,1,2,1,1,1,1,"Male",40,"Degree","Full Time","White","Christian","Married",2,3,2,3,1,1,1,2,1,2
+"400",10,1,3,0,1,1,1,"Female",82,"High School","Unemployed","White","Christian","Married",2,2,2,2,1,1,1,2,1,4
+"401",6,2,3,0,2,3,1,"Female",25,"Degree","Full Time","White","Christian","Single",2,4,1,3,1,1,1,2,2,1
+"402",3,4,5,1,2,3,1,"Female",20,"Degree","Other","White","None","Single",2,4,4,4,1,1,1,2,2,1
+"403",10,1,1,1,1,1,1,"Female",63,"Some College","Full Time","White","Christian","Married",2,3,2,2,1,1,1,2,1,3
+"404",10,1,7,1,2,1,1,"Male",49,"High School","Full Time","White","None","Single",3,4,2,4,1,2,1,2,1,1
+"405",5,10,7,0,1,2,1,"Male",26,"Degree","Full Time","White","None","Married",3,4,2,1,1,1,1,2,2,1
+"406",5,3,5,1,1,3,1,"Male",24,"High School","Full Time","White","Christian","Married",2,3,3,3,1,1,1,2,2,2
+"407",10,7,2,1,1,1,1,"Female",37,"Degree","Full Time","White","Christian","Separated",2,3,3,2,1,1,1,2,1,2
+"408",10,5,2,1,1,2,1,"Male",31,"Some College","Full Time","Black","Christian","Married",2,4,1,3,1,1,1,2,1,1
+"409",8,1,4,0,1,2,1,"Male",62,"Primary School","Unemployed","White","Christian","Married",2,2,4,4,1,1,1,2,2,1
+"410",5,6,7,0,2,4,1,"Male",45,"Primary School","Part Time","White","None","Married",4,4,1,4,2,2,1,1,2,2
+"411",8,3,2,1,1,2,1,"Male",79,"Primary School","Unemployed","White","Catholic","Married",1,4,4,2,1,1,1,2,2,2
+"412",10,1,2,1,1,1,1,"Female",65,"Primary School","Part Time","White","None","Married",1,3,2,3,1,1,1,2,1,1
+"413",10,2,4,1,1,2,1,"Female",35,"High School","Full Time","White","Christian","Separated",1,5,1,2,1,1,1,2,2,2
+"414",10,1,1,1,1,1,1,"Male",35,"Primary School","Full Time","Black","Other","Single",1,1,1,2,1,1,1,2,1,1
+"415",8,8,2,1,1,2,1,"Male",41,"Degree","Full Time","White","Catholic","Married",1,1,4,2,1,1,1,2,1,2
+"416",10,1,7,1,1,3,1,"Male",33,"High School","Full Time","White","Catholic","Married",2,4,2,4,1,1,1,1,2,1
+"417",1,1,7,0,2,4,1,"Male",52,"Degree","Unemployed","White",NA,"Married",4,5,3,5,2,2,2,2,2,3
+"418",10,1,2,1,1,1,1,"Female",38,"Some College","Housewife","White","Christian","Married",2,1,3,2,1,1,1,2,1,2
+"419",10,1,5,1,1,1,1,"Female",36,"Primary School","Unemployed","White","Christian","Separated",2,3,2,2,1,1,1,2,2,1
+"420",10,1,2,1,1,1,1,"Male",69,"Degree","Unemployed","White","Catholic","Separated",1,3,1,3,1,1,1,2,1,2
+"421",9,1,2,1,1,1,1,"Male",37,"Degree","Full Time","White","Catholic","Married",3,3,3,2,2,2,1,2,1,2
+"422",10,1,2,1,1,1,1,"Male",25,"Some College","Other","White",NA,"Single",1,1,4,2,1,1,1,2,1,1
+"423",3,1,7,0,2,4,1,"Male",29,"Degree","Unemployed","White","None","Single",3,5,1,5,1,1,1,2,2,2
+"424",10,1,2,1,1,1,1,"Male",22,"Some College","Full Time","Black","Other","Married",1,1,4,1,1,1,1,2,1,1
+"425",8,1,2,1,1,2,1,"Female",40,"Some College","Part Time","White","Catholic","Married",2,4,2,4,1,1,1,2,1,2
+"426",10,1,3,1,1,1,1,"Female",24,"Some College","Full Time","White",NA,"Married",2,1,-1,-1,1,1,1,2,1,1
+"427",7,6,3,1,1,2,1,"Male",45,"Degree","Full Time","White","Catholic","Married",3,3,4,4,1,1,1,2,1,1
+"428",10,10,1,1,1,1,1,"Female",42,"High School","Part Time","White","Christian","Married",1,1,1,1,1,1,1,2,1,2
+"429",10,1,1,1,1,1,1,"Female",39,"Degree","Full Time","Black","Other","Married",1,2,4,2,1,1,1,2,1,2
+"430",10,2,1,1,1,1,1,"Female",51,NA,"Part Time","White","Other","Separated",2,4,4,2,1,1,1,2,1,1
+"431",10,1,5,NA,1,4,1,"Female",18,"High School","Full Time","White","None","Single",2,3,3,3,1,1,1,2,1,3
+"432",5,1,7,0,-1,-1,1,"Female",29,"Primary School","Part Time","White","None","Married",4,5,1,3,1,1,1,2,2,3
+"433",10,1,1,1,1,1,1,"Female",53,"High School","Full Time","White","Other","Married",4,3,1,5,2,1,1,2,1,1
+"434",8,1,2,1,1,1,1,"Female",51,"Some College","Part Time","White","Other","Married",2,1,4,1,1,1,1,2,1,2
+"435",8,1,2,1,1,1,1,"Female",34,"Degree","Full Time","White","Other","Married",2,2,4,2,1,1,1,2,1,1
+"436",10,1,1,1,1,1,1,"Male",51,"Some College","Full Time","White","Christian","Married",1,4,5,1,1,1,1,2,1,1
+"437",10,5,3,1,1,1,1,"Female",65,"High School","Full Time","White","Christian","Married",3,2,4,2,1,1,1,2,1,2
+"438",10,2,1,1,1,1,1,"Female",24,"Degree","Full Time","Black","Other","Married",2,2,4,2,1,1,1,2,1,1
+"439",10,1,1,1,1,1,1,"Male",57,"Degree","Unemployed","White","Christian","Separated",2,2,4,2,1,1,1,2,1,1
+"440",10,2,1,1,1,1,1,"Female",62,"High School","Housewife","White","Christian","Married",1,1,4,1,1,1,1,2,1,1
+"441",10,1,7,1,1,1,1,"Male",23,"Some College","Full Time","White","Catholic","Single",1,3,4,2,1,1,1,2,2,1
+"442",8,1,7,1,1,3,1,"Female",37,"High School","Housewife","White","None","Married",3,2,2,2,1,1,1,1,2,1
+"443",10,1,2,1,1,1,1,"Female",58,"Degree","Full Time","White","Catholic","Married",1,3,3,3,1,1,1,2,1,1
+"444",10,3,7,1,1,2,1,"Female",46,"High School",NA,"White","Other","Married",1,2,3,2,1,1,1,2,2,1
+"445",10,6,7,1,1,2,1,"Male",20,"High School","Full Time","White",NA,"Single",2,3,3,3,1,1,1,2,2,2
+"446",7,9,2,1,1,1,1,"Male",21,"Some College","Full Time","Black","Judaism","Single",4,1,5,2,1,1,1,1,1,1
+"447",10,1,2,1,1,1,1,"Female",50,"Degree","Part Time","White","Christian","Married",1,3,5,2,1,1,1,2,1,2
+"448",10,5,7,1,1,2,1,"Female",30,"Some College","Self Employed","White","None","Married",2,2,1,3,1,1,1,2,2,2
+"449",10,3,7,1,1,2,1,"Female",57,"Some College","Full Time","White","Christian","Separated",3,2,2,3,1,1,1,2,2,1
+"450",1,1,7,1,2,4,1,"Male",52,"High School","Full Time","White","None","Married",2,4,3,3,2,2,2,2,2,2
+"451",9,1,2,1,1,2,1,"Female",36,"Some College","Full Time","White","Catholic","Married",1,3,3,3,1,1,1,2,2,2
+"452",10,8,7,1,-1,1,1,"Female",22,"High School","Full Time","White","None","Single",1,1,-1,-1,1,1,1,1,2,2
+"453",9,1,4,0,2,3,1,"Female",39,"Degree","Full Time","White","Judaism","Separated",3,4,2,4,2,2,1,2,1,2
+"454",10,1,6,1,1,2,1,"Female",67,"Some College","Unemployed","White","Catholic","Separated",2,1,1,3,1,1,1,2,2,2
+"455",4,4,4,1,2,3,1,"Male",54,"Degree","Unemployed","White","Catholic","Separated",3,3,2,4,1,2,1,-1,2,3
+"456",9,2,7,1,2,2,1,"Female",45,"Degree","Housewife","White","Judaism","Married",3,3,1,5,1,1,1,2,2,2
+"457",8,1,4,1,1,3,1,"Male",49,"Degree","Full Time","White","Christian","Married",3,1,1,2,1,1,1,2,1,2
+"458",10,1,1,1,1,1,1,"Male",25,"Some College","Full Time","White","Christian","Married",1,4,4,3,1,1,1,2,1,3
+"459",10,1,2,1,1,1,1,"Female",62,"Primary School","Part Time","Black","Christian","Separated",1,4,3,2,1,1,1,2,1,1
+"460",6,1,5,1,1,3,1,"Female",42,"High School","Full Time","White","Christian","Separated",2,3,3,3,1,1,1,2,2,2
+"461",9,3,3,1,1,2,1,"Female",28,"High School","Full Time","White","Catholic","Separated",1,4,2,4,1,1,1,2,1,2
+"462",10,1,3,1,1,1,1,"Female",28,"High School","Full Time","Black","Other","Married",2,2,2,2,1,1,1,2,2,2
+"463",7,1,2,1,2,2,1,"Female",39,"Some College","Housewife","White","Catholic","Married",1,4,3,2,1,2,1,2,1,1
+"464",10,1,4,1,1,1,1,"Female",31,"Primary School","Full Time","White","Other","Married",2,1,2,2,1,1,1,2,1,1
+"465",10,1,3,1,1,1,1,"Female",53,"Primary School","Housewife","White","Christian","Married",1,3,4,1,1,1,1,2,1,1
+"466",8,1,2,1,-1,2,1,"Male",23,"Some College","Full Time","White",NA,"Married",2,4,2,2,1,1,1,2,2,2
+"467",10,3,4,1,1,2,1,"Male",38,"High School","Full Time","White","Christian","Married",1,5,1,2,1,1,1,2,1,3
+"468",10,1,3,1,1,2,1,"Male",33,"High School","Full Time","White","Christian","Married",1,5,1,2,1,1,1,2,1,2
+"469",10,1,2,1,1,1,1,"Female",79,"High School","Unemployed","White","Catholic","Widowed",1,2,4,1,1,1,1,1,1,1
+"470",10,1,1,1,1,1,1,"Female",45,"Some College","Full Time","Black","Other","Single",2,1,4,1,1,1,1,2,1,1
+"471",10,1,5,1,1,1,1,"Female",40,"High School","Full Time","White","None","Separated",2,2,3,3,1,1,1,2,2,1
+"472",10,5,4,1,1,1,1,"Male",38,"High School","Unemployed","Black","Other","Married",3,4,3,1,1,1,1,1,1,1
+"473",10,1,1,1,1,1,1,"Female",49,"High School","Full Time","White","Christian","Married",1,3,4,1,1,1,1,2,1,1
+"474",10,1,5,1,1,2,1,"Female",29,"Some College","Unemployed","White","Catholic","Married",2,1,2,2,1,1,1,2,2,1
+"475",10,1,2,1,1,1,1,"Male",48,"High School","Other","Black","Christian","Separated",1,2,2,2,1,1,1,1,1,1
+"476",10,5,1,1,1,1,1,"Female",55,"Degree","Full Time","Black","Christian","Married",1,4,4,2,1,1,1,2,1,1
+"477",10,2,2,1,1,1,1,"Female",35,"Degree","Housewife","White","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"478",10,1,2,1,1,1,1,"Female",56,"Some College","Part Time","White","Catholic","Married",2,1,2,2,1,1,1,2,1,2
+"479",10,1,1,1,1,1,1,"Female",40,"High School","Self Employed","White","Christian","Separated",1,1,1,1,1,1,1,2,1,1
+"480",10,1,2,1,1,1,1,"Female",38,"High School","Full Time","White","Christian","Married",1,3,2,1,1,1,1,2,1,1
+"481",10,1,1,1,1,1,1,"Male",55,"Degree","Unemployed","White","Christian","Married",1,4,2,2,1,1,1,2,1,1
+"482",10,1,2,1,1,1,1,"Female",56,"Degree","Unemployed","White","Catholic","Married",2,3,3,1,1,1,1,2,1,2
+"483",10,1,2,1,1,1,1,"Female",18,"Degree","Part Time","Black","Christian","Single",1,3,3,3,1,1,1,2,1,2
+"484",10,1,2,1,1,1,1,"Female",74,"High School","Unemployed","White","Christian","Widowed",1,4,4,4,1,1,1,-1,1,1
+"485",2,1,2,1,1,1,1,"Female",31,"Degree","Full Time","White","Christian","Married",1,2,3,2,1,1,1,2,1,2
+"486",10,1,1,1,1,1,1,"Female",59,"Some College","Part Time","Hispanic","Christian","Married",1,1,2,2,1,1,1,1,1,1
+"487",10,1,4,1,1,1,1,"Female",57,"Primary School","Housewife","White","Catholic","Married",1,3,3,3,1,1,1,2,1,1
+"488",5,1,2,1,2,2,1,"Female",35,"Some College","Housewife","White","Other","Married",3,3,4,2,1,1,1,2,1,3
+"489",1,1,3,1,1,1,1,"Female",47,"Degree","Part Time","White","Christian","Married",1,1,1,1,1,1,1,2,1,2
+"490",10,1,6,1,2,2,1,"Female",49,"Degree","Full Time","White","Christian","Married",3,1,1,1,1,1,1,2,1,2
+"491",10,1,2,1,1,1,1,"Female",36,"High School","Full Time","White","Catholic","Married",1,2,2,1,1,1,1,2,1,2
+"492",10,1,2,1,1,1,1,"Female",28,"High School","Part Time","White","Christian","Married",1,3,3,3,1,1,1,2,1,1
+"493",10,1,2,1,1,1,1,"Female",32,"High School","Unemployed","White","Other","Married",1,1,5,1,1,1,1,2,1,1
+"494",4,2,7,0,2,3,1,"Male",19,"High School","Unemployed","White","None","Single",3,3,1,4,1,2,1,2,2,2
+"495",5,8,7,1,1,3,1,"Female",30,"Some College","Self Employed","Black","None","Single",3,4,2,4,1,1,1,2,2,1
+"496",9,3,2,1,1,2,1,"Female",49,"Degree","Full Time","White","Christian","Separated",2,2,2,3,1,1,1,2,1,2
+"497",8,1,4,1,2,3,1,"Female",20,"High School","Part Time","Black","None","Single",2,4,2,4,1,2,1,1,2,1
+"498",10,1,2,1,1,1,1,"Male",18,"High School","Full Time","Black","Christian","Married",2,2,2,2,1,1,1,2,1,1
+"499",10,1,6,1,1,1,1,"Female",26,"High School","Part Time","Hispanic","Catholic","Single",1,1,1,1,1,1,1,2,2,1
+"500",10,1,6,1,1,2,1,"Male",41,"Degree","Self Employed","White","Catholic","Single",2,4,2,3,1,1,1,2,2,1
+"501",10,5,4,1,-1,1,1,"Female",39,"Some College","Full Time","White",NA,"Single",2,1,-1,-1,1,1,1,-1,2,2
+"502",10,3,7,1,1,1,1,"Female",37,"Some College","Full Time","White","None","Single",2,4,2,3,1,1,1,2,2,2
+"503",10,1,7,1,1,4,1,"Female",31,"Degree","Full Time","White",NA,"Single",4,3,1,3,1,1,1,1,2,1
+"504",10,1,2,1,1,1,1,"Female",40,"Degree","Full Time","Hispanic","Catholic","Single",1,1,2,1,1,1,1,2,1,-1
+"505",2,1,2,1,2,3,1,"Female",27,"Some College","Housewife","Hispanic","Catholic","Married",3,5,2,4,-1,1,-1,2,1,1
+"506",10,1,2,1,3,3,1,"Female",18,"High School","Part Time","Hispanic","Catholic","Single",2,2,3,1,1,1,1,2,1,3
+"507",10,1,3,1,1,2,1,"Male",45,"High School","Full Time","White","Christian","Married",1,3,3,3,1,1,1,2,1,2
+"508",5,3,4,0,2,3,1,"Male",19,"High School","Unemployed","Hispanic","Other","Single",3,4,2,4,2,2,1,2,1,1
+"509",10,1,4,1,1,1,1,"Female",36,"Some College","Full Time","Hispanic","Catholic","Married",2,2,3,2,1,1,1,2,2,3
+"510",9,1,1,1,1,1,1,"Male",18,"Primary School","Self Employed","Hispanic","Other","Single",2,2,2,2,1,1,1,2,1,3
+"511",8,1,7,1,2,3,1,"Male",18,"Primary School","Unemployed","White","None","Single",4,4,2,4,1,1,1,2,2,1
+"512",10,2,1,1,1,1,1,"Female",41,"High School","Unemployed","Hispanic","Other","Separated",1,4,1,1,1,1,1,2,1,1
+"513",6,1,5,0,2,2,1,"Female",18,"Primary School","Part Time","Hispanic","None","Single",1,4,4,4,1,1,1,2,2,1
+"514",10,5,3,1,1,1,1,"Female",32,"Primary School","Full Time","Black","Other","Married",1,2,5,1,1,1,1,2,2,1
+"515",9,3,2,1,1,1,1,"Female",54,"High School","Full Time","Hispanic","Catholic","Married",1,2,2,3,1,1,1,1,1,2
+"516",10,1,1,1,1,1,1,"Female",49,"Primary School","Full Time","Hispanic","Other","Separated",3,1,5,1,1,1,1,2,2,1
+"517",10,1,6,1,1,1,1,"Female",19,"High School","Part Time","Hispanic","Catholic","Single",1,4,2,4,1,1,1,1,2,1
+"518",10,1,3,1,1,1,1,"Male",77,"Some College","Unemployed","White","Christian","Married",1,2,2,2,1,1,1,2,1,1
+"519",10,1,1,1,1,1,1,"Female",20,"High School","Other","White","Christian","Married",1,1,4,1,1,1,1,2,1,1
+"520",10,1,1,1,1,1,1,"Male",23,"Degree","Unemployed","White","Christian","Single",1,1,4,1,1,1,1,2,1,1
+"521",10,1,2,1,1,1,1,"Female",48,"Degree","Full Time","White","Other","Married",2,4,2,3,1,1,1,2,1,1
+"522",10,3,6,1,1,2,1,"Female",39,"High School","Part Time","White","Christian","Married",2,2,3,3,1,1,1,2,2,2
+"523",10,1,2,1,1,2,1,"Male",28,"High School","Full Time","White","Catholic","Separated",2,3,3,2,1,1,1,2,1,1
+"524",10,3,1,1,1,1,1,"Male",51,"Some College","Full Time","White","Christian","Married",2,3,4,1,1,1,1,2,1,1
+"525",10,1,3,1,1,2,1,"Female",49,"High School","Full Time","Black","Christian","Separated",1,4,2,4,1,1,1,2,2,1
+"526",10,1,2,1,1,1,1,"Female",24,"High School","Full Time","White","Christian","Single",1,2,5,1,1,1,1,2,1,1
+"527",10,1,2,1,1,2,1,"Female",30,"High School","Full Time","Hispanic","Christian","Married",1,2,4,3,1,1,1,2,1,1
+"528",10,1,2,1,1,1,1,"Female",66,"High School","Unemployed","White","Catholic","Widowed",1,3,4,3,1,1,1,2,1,2
+"529",10,1,2,1,1,1,1,"Female",30,"High School","Full Time","White","Other","Married",2,2,2,2,1,1,1,2,2,2
+"530",10,-1,6,1,1,1,1,"Male",22,"High School","Part Time","Black",NA,"Single",1,-1,-1,-1,1,1,1,-1,1,1
+"531",10,1,3,0,2,1,1,"Male",21,"Primary School","Full Time","Hispanic","None","Separated",3,4,-1,-1,1,1,1,2,2,1
+"532",10,7,3,1,1,1,1,"Male",23,"Some College","Full Time","White","Catholic","Married",2,2,4,2,1,1,1,2,1,2
+"533",10,1,5,NA,1,3,1,"Female",25,"Some College","Full Time","Black",NA,"Married",2,2,2,2,1,1,1,2,2,2
+"534",10,1,1,1,1,1,1,"Female",65,"Some College","Unemployed","White","Christian","Married",1,2,2,2,1,1,1,2,1,1
+"535",10,1,1,1,1,1,1,"Female",21,"High School","Full Time","Black","Other","Single",2,2,3,1,1,1,1,2,1,1
+"536",10,1,2,1,1,1,1,"Female",56,"Degree","Full Time","White","Other","Separated",1,3,3,1,1,1,1,2,1,1
+"537",10,1,3,1,1,1,1,"Female",35,"Some College","Full Time","Black","Christian","Single",2,1,4,1,1,1,1,2,1,1
+"538",1,1,7,1,2,3,1,"Female",33,"Primary School","Self Employed","White","None","Single",2,4,2,4,1,1,2,2,2,1
+"539",10,6,2,1,1,1,1,"Female",28,"Some College","Full Time","White","Other","Married",1,1,3,1,1,1,1,2,1,1
+"540",7,4,3,0,1,1,1,"Female",19,"High School","Other","Black",NA,"Married",2,3,3,3,1,1,1,1,1,2
+"541",10,1,1,1,1,1,1,"Male",38,"High School","Part Time","Black","None","Single",3,-1,4,2,1,1,1,2,1,1
+"542",8,2,2,1,1,2,1,"Male",18,"Some College","Part Time","White","Catholic","Single",1,2,4,2,1,1,1,2,1,3
+"543",9,5,5,1,1,2,1,"Female",27,"Some College","Part Time","Hispanic","None","Single",2,4,2,4,1,1,1,2,2,1
+"544",10,1,2,1,1,1,1,"Female",31,"High School","Part Time","White","Catholic","Married",3,4,3,2,1,1,1,2,1,2
+"545",10,1,2,1,1,1,1,"Female",36,"High School","Housewife","White","Catholic","Married",1,4,2,2,1,1,1,2,1,2
+"546",10,1,6,1,1,3,1,"Male",43,"High School","Unemployed","White","None","Single",3,4,2,3,1,1,1,2,2,1
+"547",9,1,7,1,1,2,1,"Male",22,"High School","Full Time","White","None","Married",4,3,2,3,1,-1,1,2,2,1
+"548",10,1,3,1,1,2,1,"Female",36,"Some College","Full Time","White","Catholic","Married",1,1,2,1,1,1,1,2,1,1
+"549",9,2,2,1,1,1,1,"Female",40,"High School","Full Time","White","None","Married",1,3,2,3,1,1,1,2,2,1
+"550",8,1,3,1,1,2,1,"Male",48,"Some College","Full Time","White","Christian","Married",2,4,4,3,1,1,1,2,1,2
+"551",10,1,2,1,1,1,1,"Female",49,"High School","Part Time","White","Other","Married",1,2,4,2,1,1,1,2,1,1
+"552",10,1,2,1,1,1,1,"Female",38,"Primary School","Other","White","None","Single",1,3,3,3,1,1,1,2,1,1
+"553",10,1,7,1,1,1,1,"Female",37,"Degree","Housewife","White","Catholic","Married",3,1,4,2,1,1,1,2,2,1
+"554",1,8,7,0,2,4,1,"Male",25,"Degree","Part Time","White",NA,"Married",4,2,2,5,-1,-1,-1,1,2,2
+"555",10,1,2,1,1,1,1,"Female",24,"Some College","Full Time","Hispanic","Catholic","Single",2,2,3,2,1,1,1,2,1,1
+"556",10,1,2,1,1,1,1,"Female",21,"High School","Unemployed","Hispanic","Catholic","Single",2,2,3,2,1,1,1,2,1,1
+"557",10,1,2,1,1,1,1,"Female",36,"High School","Part Time","Hispanic","Catholic","Married",2,-1,-1,-1,1,1,1,2,1,1
+"558",10,1,7,1,1,1,1,"Female",72,"High School","Unemployed","Hispanic","None","Married",2,2,3,2,1,1,1,2,2,2
+"559",10,1,2,1,1,1,1,"Female",45,"Degree","Self Employed","Hispanic","Catholic","Married",2,2,3,2,1,1,1,2,1,1
+"560",10,1,4,1,1,1,1,"Female",30,"Some College","Unemployed","White","Catholic","Married",1,3,2,2,1,1,1,2,1,1
+"561",10,1,2,1,1,1,1,"Female",22,"High School","Self Employed","Hispanic","Catholic","Single",1,3,3,3,1,1,1,2,1,1
+"562",10,1,2,1,1,1,1,"Female",70,"Some College","Part Time","White","Christian","Separated",1,2,2,3,1,1,1,2,1,2
+"563",7,2,7,1,1,2,1,"Male",40,"High School","Full Time","White",NA,"Married",3,4,1,4,1,1,1,2,2,1
+"564",10,1,2,1,1,1,1,"Female",60,"Primary School","Full Time","White","Other","Married",2,2,5,1,1,1,1,2,1,2
+"565",3,1,7,0,2,3,1,"Male",48,"High School","Full Time","White","None","Married",3,4,1,4,1,2,2,2,2,2
+"566",1,1,5,0,3,2,1,"Male",19,"High School","Full Time","White","None","Single",1,3,5,3,2,2,1,2,2,3
+"567",8,1,3,1,1,1,1,"Male",60,"High School","Full Time","White","Christian","Married",2,2,2,2,1,1,1,2,1,3
+"568",10,1,2,1,1,1,1,"Female",44,"High School","Full Time","White","Christian","Married",1,2,1,4,1,1,1,2,1,1
+"569",10,1,4,1,1,1,1,"Female",45,"High School","Self Employed","White","None","Married",2,2,3,2,1,1,1,2,1,1
+"570",9,1,3,1,1,1,1,"Male",36,"High School","Full Time","White","Christian","Married",1,4,3,3,1,1,1,2,1,2
+"571",10,3,2,1,1,1,1,"Female",38,"High School","Full Time","White","Christian","Married",2,3,3,2,1,1,1,2,1,1
+"572",10,4,1,1,1,1,1,"Male",49,"High School","Full Time","White","Christian","Married",1,2,3,2,1,1,1,2,1,1
+"573",9,1,3,1,1,1,1,"Female",19,"High School","Full Time","White","None","Married",2,4,2,4,1,1,1,1,2,2
+"574",10,2,1,1,1,1,1,"Female",75,"High School","Unemployed","White","Catholic","Widowed",1,3,3,2,1,1,1,2,1,1
+"575",10,1,2,1,1,1,1,"Female",38,"Degree","Part Time","White","Christian","Single",1,1,5,2,1,1,1,2,1,1
+"576",9,3,3,1,1,2,1,"Female",27,"High School","Full Time","White","Other","Separated",2,3,3,3,1,1,1,2,2,1
+"577",9,5,1,1,1,1,1,"Female",19,"Primary School","Part Time","Black","None","Single",1,3,5,1,1,1,1,1,1,1
+"578",10,1,2,1,1,1,1,"Female",38,"Degree","Full Time","White","Other","Married",1,1,4,1,1,1,1,2,1,1
+"579",10,5,1,1,1,1,1,"Male",30,"High School","Full Time","Black","Other","Single",2,1,4,2,1,1,1,2,1,1
+"580",10,1,1,1,1,1,1,"Female",18,"High School","Full Time","Black","Other","Single",1,3,4,3,1,1,1,2,1,1
+"581",10,1,2,1,1,1,1,"Male",61,"Degree","Full Time","White","Christian","Married",2,1,1,3,1,1,1,2,1,1
+"582",10,1,2,1,1,1,1,"Female",24,"Some College","Full Time","Black","Other","Separated",1,1,3,2,1,1,1,2,2,1
+"583",10,2,2,1,1,1,1,"Female",43,"Some College","Full Time","White","Other","Married",1,2,4,1,1,1,1,-1,1,1
+"584",10,1,2,1,1,1,1,"Female",56,"High School","Self Employed","White","Christian","Married",1,3,2,2,1,1,1,2,1,2
+"585",9,1,3,1,1,2,1,"Male",49,"High School","Full Time","White","Christian","Married",2,1,3,2,1,1,1,2,1,2
+"586",10,2,2,1,1,1,1,"Male",45,"Degree","Full Time","White","Other","Married",2,4,2,3,1,1,1,2,1,1
+"587",9,2,2,1,1,1,1,"Female",25,"Degree","Full Time","White","Christian","Single",2,4,2,2,1,1,1,2,1,1
+"588",9,1,2,1,1,2,1,"Female",29,"Degree","Full Time","White","Other","Separated",2,3,2,3,1,1,1,2,1,1
+"589",1,1,7,1,2,1,1,"Female",25,"Degree","Unemployed","White","None","Married",3,5,3,3,2,2,2,2,2,1
+"590",10,1,1,1,1,1,1,"Male",70,"Degree","Unemployed","White","Christian","Married",1,2,3,2,1,1,1,2,1,1
+"591",10,4,2,1,1,1,1,"Female",24,"High School","Full Time","White","None","Separated",1,2,2,2,1,1,1,2,1,1
+"592",10,5,4,1,1,1,1,"Male",44,"High School","Full Time","White","Christian","Married",2,4,2,5,1,1,1,2,1,1
+"593",10,1,2,1,1,1,1,"Female",47,"Degree","Full Time","White","Catholic","Married",1,4,4,2,1,1,1,2,1,1
+"594",10,1,1,1,1,1,1,"Female",40,"High School","Part Time","Black","Christian","Single",1,4,4,1,2,1,1,1,1,1
+"595",10,1,1,1,1,1,1,"Male",45,"High School","Full Time","White","Christian","Separated",2,3,4,2,1,1,1,2,1,2
+"596",9,1,5,1,1,3,1,"Male",75,"High School","Unemployed","White","Christian","Single",3,3,2,2,1,2,1,2,2,1
+"597",10,1,2,1,1,1,1,"Female",56,"High School","Unemployed","White","Christian","Married",3,4,2,3,1,1,1,2,1,1
+"598",10,1,1,1,1,1,1,"Female",20,"High School","Housewife","White","Christian","Married",1,3,2,1,1,1,1,2,1,1
+"599",10,1,1,1,1,1,1,"Female",52,"Degree","Full Time","White","Christian","Separated",1,2,2,2,1,1,1,2,1,1
+"600",10,1,1,1,1,1,1,"Female",54,"High School","Housewife","White","Christian","Married",3,2,2,2,1,1,1,2,1,2
+"601",7,2,7,1,1,3,1,"Female",38,"Some College","Full Time","White","None","Single",3,5,1,4,1,1,1,2,2,1
+"602",9,1,2,1,1,1,1,"Female",45,"Degree","Full Time","White","Catholic","Separated",2,4,2,2,1,1,1,2,1,2
+"603",10,1,2,1,1,1,1,"Male",47,"High School","Full Time","White","Catholic","Married",2,4,4,2,1,1,1,2,1,1
+"604",10,2,2,1,1,1,1,"Female",72,"Degree","Self Employed","White","Catholic","Married",2,3,3,3,1,1,1,2,1,1
+"605",4,2,2,1,1,2,1,"Male",49,"High School","Unemployed","White","Christian","Married",3,1,1,2,1,1,1,2,2,3
+"606",6,1,7,0,1,3,1,"Male",81,"Degree","Unemployed","White","None","Widowed",3,3,2,2,1,1,1,-1,2,2
+"607",9,1,4,1,1,1,1,"Female",37,"Degree","Housewife","White","Catholic","Married",3,4,2,4,1,1,1,2,2,1
+"608",7,2,3,1,1,1,1,"Male",52,"Degree","Full Time","White","Other","Separated",2,4,4,2,1,1,1,2,1,3
+"609",9,3,2,1,1,1,1,"Female",68,"High School","Unemployed","White","Christian","Married",2,2,4,2,1,1,1,2,1,2
+"610",8,3,6,1,2,3,1,"Female",48,"Degree","Full Time","White",NA,"Separated",3,4,2,4,1,1,1,1,2,1
+"611",10,4,7,1,1,2,1,"Female",26,"Degree","Other","White","Other","Single",4,5,1,5,1,1,1,1,2,1
+"612",10,3,2,1,1,1,1,"Male",59,"Some College","Self Employed","White","Christian","Married",1,4,4,2,1,1,1,2,1,1
+"613",7,1,3,1,1,2,1,"Female",35,"Degree","Full Time","White","Catholic","Married",2,4,4,2,1,1,1,2,1,1
+"614",10,1,4,1,1,2,1,"Female",20,"Primary School","Part Time","Hispanic","Other","Single",2,3,2,4,1,1,1,1,2,1
+"615",10,1,2,1,1,1,1,"Female",72,"Some College","Unemployed","Black","Other","Widowed",2,3,3,3,1,1,1,2,2,1
+"616",10,1,1,1,1,1,1,"Female",54,"Primary School","Part Time","Black","Christian","Separated",1,1,2,1,1,1,1,2,1,1
+"617",10,1,3,1,1,1,1,"Male",18,"High School","Other","Black","Other","Single",1,3,2,3,1,1,1,2,1,1
+"618",1,1,2,1,1,1,1,"Female",57,"High School","Unemployed","White","Christian","Separated",2,1,3,2,1,1,1,2,1,1
+"619",9,1,1,1,1,1,1,"Male",49,"High School","Full Time","White","None","Married",3,3,2,2,1,1,1,1,1,1
+"620",10,5,3,1,1,1,1,"Male",22,"High School","Part Time","Hispanic",NA,"Single",2,2,4,2,1,1,1,1,1,2
+"621",9,1,6,1,1,1,1,"Male",60,"Primary School","Unemployed","White","Other","Widowed",2,4,3,3,1,1,1,2,2,1
+"622",9,1,3,1,1,2,1,"Male",45,"Degree","Full Time","White",NA,"Married",2,4,4,2,1,1,1,2,1,1
+"623",9,1,2,1,1,1,1,"Male",24,"Degree","Part Time","Hispanic","Other","Married",2,5,4,2,1,1,1,2,1,1
+"624",10,1,2,1,1,1,1,"Male",47,"Some College","Unemployed","Black","Other","Separated",2,3,4,2,1,1,1,2,2,2
+"625",7,1,5,1,1,1,1,"Female",32,"High School","Housewife","White","Other","Married",2,4,3,2,1,1,1,2,1,1
+"626",10,1,3,1,1,2,1,"Female",42,"Degree","Other","Other","Other","Married",1,3,3,3,1,1,1,2,2,1
+"627",10,1,1,1,1,1,1,"Male",67,"High School","Unemployed","Hispanic","Catholic","Married",1,1,1,1,1,1,1,1,1,1
+"628",9,1,2,1,1,2,1,"Female",69,"High School","Unemployed","White","Christian","Separated",2,4,4,2,1,1,1,2,1,2
+"629",10,1,2,1,1,1,1,"Female",32,"Degree","Full Time","White","Christian","Single",2,3,2,4,1,1,1,2,1,1
+"630",10,1,2,1,1,1,1,"Male",74,"Primary School","Other","Black","Christian","Separated",1,1,1,1,1,1,1,2,1,2
+"631",10,1,2,1,1,1,1,"Female",68,"Primary School","Unemployed","White","Other","Widowed",1,1,5,1,1,1,1,2,1,1
+"632",10,1,1,1,1,1,1,"Female",21,"Primary School","Unemployed","Other","Other","Single",3,2,2,3,1,1,1,2,1,2
+"633",10,1,1,1,1,1,1,"Male",37,"Degree","Full Time","Hispanic","Christian","Married",2,1,5,1,1,1,1,2,1,1
+"634",8,10,4,1,1,1,1,"Female",50,"High School","Full Time","White","Catholic","Separated",3,4,3,3,1,-1,1,1,1,1
+"635",4,1,7,1,1,2,1,"Male",25,"High School","Full Time","White","None","Married",3,5,1,2,1,2,1,1,2,1
+"636",9,1,3,1,1,2,1,"Male",86,"Degree","Unemployed","White","Other","Married",2,2,4,3,1,1,1,2,1,4
+"637",9,3,3,1,1,2,1,"Female",43,"High School","Full Time","White","Other","Separated",2,1,2,1,1,1,1,2,1,2
+"638",6,1,5,1,1,4,1,"Male",18,"Primary School","Part Time","White","None","Single",4,4,2,3,1,1,1,2,2,1
+"639",7,1,4,1,1,2,1,"Male",35,"Primary School","Housewife","White","Christian","Married",2,3,3,2,1,1,1,2,1,2
+"640",10,2,2,1,1,1,1,"Male",27,"Primary School","Full Time","Black","None","Married",3,2,2,4,1,1,1,2,1,1
+"641",5,1,4,1,2,2,1,"Female",48,"High School","Unemployed","White","None","Married",2,3,2,3,1,1,1,2,2,1
+"642",9,3,5,1,1,2,1,"Female",18,"High School","Other","Black","Christian","Single",3,3,3,2,1,1,1,2,2,1
+"643",6,1,7,1,1,3,1,"Female",23,"Primary School","Full Time","White","None","Married",3,4,2,4,1,1,1,2,2,2
+"644",10,1,1,1,1,1,1,"Female",67,"Some College","Unemployed","White","Other","Married",1,3,3,2,1,1,1,2,1,1
+"645",10,4,4,1,1,1,1,"Male",32,"Primary School","Full Time","Hispanic","Catholic","Married",1,2,3,3,1,1,1,2,2,1
+"646",10,2,3,1,1,3,1,"Male",31,"Primary School","Full Time","White","Catholic","Married",2,3,2,3,1,1,1,1,2,1
+"647",8,1,6,1,2,1,1,"Female",29,"High School","Full Time","Hispanic","Other","Married",1,3,3,3,1,1,1,2,2,1
+"648",10,1,1,1,1,1,1,"Male",40,"Degree","Full Time","White","Other","Separated",1,2,2,3,1,1,1,2,1,1
+"649",5,6,7,0,2,2,1,"Female",47,"Primary School","Unemployed","White","None","Married",4,4,1,4,1,1,1,2,2,1
+"650",6,1,7,1,2,4,1,"Female",38,"Primary School","Full Time","White","None","Separated",3,3,4,2,1,2,1,1,2,1
+"651",7,2,7,1,-1,3,1,"Female",19,"High School","Other","Hispanic","Catholic","Married",3,3,2,3,1,1,1,2,2,1
+"652",1,1,7,1,2,4,1,"Female",21,"High School","Unemployed","Hispanic","None","Married",4,3,1,3,1,-1,-1,2,2,3
+"653",10,2,2,1,1,1,1,"Female",21,"High School","Other","Other","Catholic","Single",2,4,2,4,1,1,1,2,1,1
+"654",10,5,6,1,1,1,1,"Male",43,"Degree","Self Employed","Black","Other","Single",1,1,1,3,1,1,1,2,2,1
+"655",10,5,3,1,1,1,1,"Female",25,"High School","Other","Hispanic","None","Single",2,4,4,4,1,1,1,2,2,1
+"656",10,5,3,1,2,1,1,"Male",44,"Primary School","Full Time","Hispanic","Catholic","Married",3,4,1,1,1,1,1,2,2,2
+"657",6,2,5,0,2,1,1,"Male",18,"Primary School","Full Time","White","None","Single",3,2,3,3,1,1,1,2,2,1
+"658",2,6,7,0,2,3,1,"Male",44,"Some College","Full Time","White","None","Single",3,4,1,4,1,1,1,2,2,2
+"659",10,2,3,1,1,2,1,"Male",30,"High School","Full Time","Other","Catholic","Single",1,3,2,3,1,1,1,2,2,1
+"660",6,2,7,0,2,2,1,"Male",40,"High School","Full Time","White","None","Separated",2,3,3,4,1,1,1,1,2,1
+"661",3,2,7,1,2,3,1,"Male",32,"Degree","Full Time","Other","None","Single",3,4,2,4,1,2,1,2,2,3
+"662",10,2,1,1,1,4,1,"Female",64,"Some College","Unemployed","White","Christian","Widowed",2,2,3,3,2,1,1,2,2,1
+"663",3,2,4,0,2,4,1,"Male",22,"High School","Unemployed","Hispanic","None","Single",4,3,2,2,1,1,-1,2,2,1
+"664",9,1,5,1,2,2,1,"Female",22,"Degree","Unemployed","White","None","Married",3,3,1,3,1,1,1,2,2,2
+"665",7,1,4,1,1,2,1,"Male",22,"Some College","Part Time","White","None","Single",3,5,2,5,1,2,1,1,1,1
+"666",10,1,1,1,1,1,1,"Male",76,"Primary School","Unemployed","Hispanic",NA,"Married",1,1,5,1,1,1,1,2,1,2
+"667",10,1,1,1,1,1,1,"Female",33,"Degree","Full Time","White","Christian","Married",1,4,4,2,1,1,1,2,1,2
+"668",7,6,4,1,1,1,1,"Male",28,"Some College","Full Time","Black","Other","Single",4,4,1,4,1,2,1,1,2,1
+"669",10,1,5,1,1,1,1,"Female",56,"High School","Unemployed","Black","Christian","Separated",2,2,4,4,1,1,1,1,2,1
+"670",-1,1,2,1,1,1,1,"Female",56,"Some College","Part Time","White","Catholic","Married",2,4,1,4,1,1,1,2,1,1
+"671",10,1,2,1,1,2,1,"Female",48,"Some College","Full Time","Black","Other","Separated",3,1,3,1,1,-1,1,2,1,1
+"672",10,1,2,1,1,1,1,"Male",46,"Some College","Full Time","White","Catholic","Single",1,1,5,1,1,1,1,2,1,1
+"673",6,1,4,1,-1,2,1,"Male",71,"Degree","Unemployed","White","Catholic","Separated",2,3,2,4,-1,-1,-1,2,2,1
+"674",10,1,4,1,1,1,1,"Male",62,"Primary School","Part Time","White","Catholic","Married",1,2,2,1,1,1,1,2,2,2
+"675",2,2,7,0,1,4,1,"Female",26,"Degree","Unemployed","White",NA,"Single",4,4,2,5,2,2,1,2,2,1
+"676",10,4,2,1,1,2,1,"Male",39,"Degree","Full Time","White","Catholic","Single",2,3,4,3,1,1,1,2,1,2
+"677",6,3,2,1,2,3,1,"Male",61,"Degree","Full Time","White","None","Separated",4,4,2,4,1,1,1,2,2,1
+"678",5,1,4,1,2,3,1,"Male",39,"Degree","Full Time","White",NA,"Single",3,4,1,4,1,-1,1,2,2,2
+"679",3,3,5,0,2,3,1,"Female",34,"Degree","Other","Black","Catholic","Married",2,4,2,3,1,2,-1,2,2,1
+"680",5,2,3,1,-1,3,1,"Female",69,"High School","Unemployed","Other","Other","Married",2,3,1,3,1,1,2,2,2,2
+"681",10,5,4,1,1,3,1,"Female",25,"Degree","Full Time","Black",NA,"Single",3,4,2,3,1,1,1,2,2,2
+"682",10,9,6,1,1,2,1,"Female",56,"Degree","Part Time","Other","Catholic","Married",2,4,2,4,1,1,1,1,2,1
+"683",7,1,6,1,1,2,1,"Female",53,"Some College","Unemployed","Black","Other","Married",2,2,2,1,1,1,1,2,2,2
+"684",10,6,3,1,1,1,1,"Female",51,"Degree","Full Time","White","Catholic","Married",3,5,2,3,1,2,1,2,1,2
+"685",10,2,6,1,1,1,1,"Male",59,"Degree","Full Time","Other","Other","Married",1,4,2,2,1,1,1,2,1,1
+"686",10,2,5,1,1,2,1,"Female",50,"Some College","Full Time","White","Catholic","Married",3,3,2,3,1,1,1,1,2,1
+"687",10,5,5,1,1,3,1,"Male",58,"High School","Unemployed","White","Other","Married",1,2,2,3,1,1,1,2,2,1
+"688",10,1,5,1,1,2,1,"Female",50,"High School","Unemployed","White","None","Separated",1,2,1,4,1,1,1,2,2,2
+"689",5,2,5,0,2,3,1,"Male",31,"High School","Full Time","White","Judaism","Married",2,3,3,3,1,1,1,2,2,2
+"690",8,6,6,1,1,2,1,"Female",31,"High School","Self Employed","White","Catholic","Single",3,5,5,3,1,1,1,1,2,2
+"691",4,6,7,1,1,2,1,"Male",32,"High School","Full Time","Black","None","Separated",3,4,2,4,1,1,1,2,2,1
+"692",10,6,7,1,1,3,1,"Male",41,"High School","Full Time","White","Christian","Married",4,3,3,1,1,1,1,2,2,1
+"693",9,3,5,1,1,1,1,"Female",47,"Some College","Unemployed","White","Christian","Married",3,3,1,5,1,1,1,2,2,1
+"694",10,1,2,1,1,1,1,"Female",35,"Degree","Part Time","White",NA,"Widowed",2,1,1,1,1,1,1,2,1,3
+"695",9,1,6,1,1,1,1,"Male",51,"High School","Unemployed","White","Other","Separated",1,2,1,3,1,1,1,2,2,2
+"696",10,1,-1,1,1,1,1,"Female",51,"High School","Full Time","White","None","Married",3,1,1,5,1,1,1,2,2,1
+"697",5,1,7,0,2,1,1,"Male",18,"Primary School","Full Time","Black","None","Single",1,2,2,2,1,1,1,1,2,2
+"698",7,6,4,1,1,2,1,"Female",35,"High School","Housewife","White","Catholic","Married",2,2,2,2,1,1,1,2,1,2
+"699",10,1,2,1,1,1,1,"Female",44,"Some College","Full Time","Black","Other","Married",1,5,2,4,1,1,1,2,1,1
+"700",5,1,4,1,1,3,1,"Male",55,"High School","Unemployed","White","None","Married",2,3,1,2,1,2,1,2,2,2
+"701",9,3,4,1,1,2,1,"Male",47,"Degree","Full Time","White","Catholic","Married",2,3,4,4,1,1,1,2,2,1
+"702",10,1,2,1,1,1,1,"Female",78,"Degree","Unemployed","White","Christian","Single",3,3,3,3,1,1,1,2,1,1
+"703",10,1,1,1,1,1,1,"Female",76,"Degree","Part Time","White","Catholic","Widowed",2,2,5,1,1,1,1,2,1,1
+"704",3,1,7,0,2,3,1,"Female",53,"Some College","Full Time","White","None","Separated",3,3,1,3,1,2,2,2,2,1
+"705",10,1,1,1,1,1,1,"Female",74,"High School","Unemployed","Black","Christian","Widowed",2,1,2,3,1,1,1,2,1,1
+"706",10,1,3,1,1,2,1,"Male",64,"Degree","Unemployed","White","Christian","Widowed",2,3,3,4,1,2,1,2,1,2
+"707",10,5,3,1,1,3,1,"Male",29,"Degree","Full Time","Black","Christian","Married",2,2,2,2,1,1,1,2,1,1
+"708",10,1,2,1,1,1,1,"Male",45,"Degree","Full Time","White","Christian","Separated",2,2,2,2,1,1,1,2,1,2
+"709",10,1,2,1,1,1,1,"Female",53,"Some College","Unemployed","White","Catholic","Single",1,4,4,1,1,1,1,2,1,1
+"710",1,2,6,0,2,4,1,"Male",54,"Degree","Unemployed","White","None","Married",3,4,1,3,2,2,2,2,2,1
+"711",10,1,1,1,1,1,1,"Female",63,"Degree","Other","White","Catholic","Separated",2,1,4,1,1,1,1,2,1,1
+"712",10,1,2,1,1,2,1,"Female",56,"Some College","Other","White","Catholic","Separated",2,1,4,1,1,1,1,1,2,1
+"713",9,1,3,1,1,1,1,"Male",74,"Degree","Unemployed","White","Judaism","Married",2,4,2,4,1,1,1,2,1,1
+"714",9,1,5,1,1,2,1,"Female",62,"Some College","Unemployed","White","Christian","Married",2,3,2,4,1,1,1,2,2,3
+"715",7,1,3,1,1,2,1,"Male",40,"Primary School","Full Time","White","Catholic","Married",2,4,3,4,1,1,1,2,1,1
+"716",10,1,6,1,1,2,1,"Female",28,"Primary School","Full Time","Black","Christian","Single",1,4,2,3,1,1,1,2,2,1
+"717",8,1,3,0,1,1,1,"Male",78,"Degree","Unemployed","White","Judaism","Widowed",2,5,2,2,1,1,1,2,1,2
+"718",7,1,5,1,2,1,1,"Male",35,"Primary School","Full Time","Black","None","Married",3,4,2,2,1,1,1,1,2,1
+"719",10,1,2,1,1,2,1,"Male",23,"Degree","Full Time","White","Catholic","Single",1,1,3,2,1,1,1,1,2,1
+"720",7,1,7,1,1,3,1,"Male",27,"Degree","Full Time","White","None","Single",3,4,1,3,1,1,1,2,2,2
+"721",10,1,6,1,1,3,1,"Male",43,"Degree","Full Time","White","None","Married",3,5,1,4,1,1,1,1,2,1
+"722",10,1,2,1,1,2,1,"Female",34,"Some College","Full Time","Hispanic","Other","Separated",2,1,2,2,1,1,1,2,2,1
+"723",10,5,2,1,1,1,1,"Female",37,"Some College","Full Time","Other","Other","Married",1,1,5,1,1,1,1,2,1,1
+"724",3,6,6,1,2,4,1,"Female",34,"Degree","Full Time","White","Christian","Married",3,5,2,5,1,2,1,2,2,1
+"725",9,8,5,1,1,2,1,"Female",43,"High School","Unemployed","White","Catholic","Married",3,2,3,4,1,1,1,2,2,2
+"726",9,4,2,1,1,1,1,"Female",42,"High School","Housewife","White","Catholic","Married",2,4,3,3,1,1,1,2,1,2
+"727",10,3,1,1,2,1,1,"Male",43,"Degree","Full Time","Black","None","Single",2,4,2,2,1,1,1,2,1,1
+"728",10,2,4,1,1,2,1,"Female",30,"Degree","Full Time","White","Other","Married",1,3,4,2,1,1,1,2,2,1
+"729",10,1,2,1,1,1,1,"Male",40,"Some College","Full Time","Black","Christian","Married",1,2,4,2,1,1,1,2,1,2
+"730",10,1,1,1,1,1,1,"Male",37,"Degree","Full Time","Black","Christian","Married",1,4,5,3,1,1,1,2,1,1
+"731",3,3,6,1,-1,4,1,"Male",37,"High School","Full Time","White",NA,"Separated",3,4,2,4,1,2,-1,2,2,2
+"732",10,1,2,1,1,1,1,"Female",46,"Primary School","Full Time","White","Christian","Married",1,1,3,1,1,1,1,2,1,1
+"733",10,1,1,1,1,1,1,"Female",41,"High School","Self Employed","Hispanic","Catholic","Married",1,2,1,1,1,1,1,2,1,1
+"734",6,1,7,0,2,4,1,"Male",38,"High School","Full Time","White","None","Single",4,4,2,4,1,1,1,2,2,3
+"735",7,3,7,1,1,3,1,"Male",46,"Degree","Full Time","White","None","Married",3,5,1,3,1,2,1,2,2,1
+"736",10,2,1,1,1,1,1,"Female",23,"Some College","Part Time","Other","Christian","Single",2,4,4,3,1,1,1,2,1,2
+"737",10,1,2,1,1,1,1,"Male",40,"Degree","Full Time","White","Catholic","Married",1,1,4,2,1,1,1,2,1,1
+"738",10,2,2,1,1,1,1,"Male",50,"Degree","Full Time","White","Christian","Married",1,5,4,4,1,1,1,2,1,2
+"739",10,1,1,1,1,1,1,"Female",33,"Degree","Full Time","Black","Other","Single",1,3,5,2,1,1,1,2,1,1
+"740",10,1,2,1,1,1,1,"Male",65,"High School","Full Time","White","None","Married",1,2,2,1,1,1,1,2,1,1
+"741",7,5,2,1,1,1,1,"Male",33,"Degree","Self Employed","White","Other","Married",2,4,3,2,1,1,1,2,1,2
+"742",10,1,1,1,1,1,1,"Female",63,"High School","Housewife","White","Other","Married",2,2,2,2,1,1,1,1,1,2
+"743",10,1,2,1,1,1,1,"Female",35,"High School","Unemployed","Hispanic","Other","Married",1,3,1,3,1,1,1,2,1,1
+"744",10,1,3,1,1,1,1,"Male",59,"High School","Full Time","Black","Christian","Married",1,2,4,2,1,1,1,2,1,1
+"745",10,1,2,1,2,1,1,"Female",44,"High School","Part Time","White","Other","Married",2,1,3,2,1,1,1,2,1,1
+"746",8,2,4,1,2,3,1,"Male",18,"Primary School","Part Time","White","Judaism","Single",2,4,4,5,1,1,1,2,1,3
+"747",3,2,5,1,2,3,1,"Male",48,"High School","Full Time","White",NA,"Separated",3,4,2,4,1,-1,1,2,2,2
+"748",9,4,2,1,1,1,1,"Male",80,"Some College","Unemployed","White","Christian","Married",1,2,2,2,1,1,1,2,1,1
+"749",10,3,1,1,1,1,1,"Female",36,"Degree","Part Time","Other","Other","Married",1,1,4,1,1,1,1,2,1,1
+"750",10,1,2,1,1,1,1,"Male",37,"Degree","Full Time","White","Christian","Married",2,2,4,1,1,1,1,2,1,2
+"751",10,1,1,1,1,1,1,"Male",45,"Degree","Full Time","White","Other","Married",1,1,4,1,1,1,1,2,1,1
+"752",2,3,5,0,2,2,1,"Female",63,"Some College","Part Time","White","Judaism","Widowed",3,5,1,5,2,2,2,2,1,3
+"753",7,2,3,1,2,3,1,"Female",34,"Degree","Full Time","White","Other","Married",3,4,2,2,1,1,1,2,1,2
+"754",9,1,2,1,1,2,1,"Female",30,"Some College","Full Time","White","Catholic","Single",2,2,4,2,1,1,1,2,2,2
+"755",2,1,7,0,2,3,1,"Male",25,"Primary School","Full Time","White","None","Single",4,5,2,4,1,2,2,1,2,2
+"756",10,1,2,1,1,1,1,"Female",42,"Some College","Housewife","White","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"757",3,1,7,0,2,3,1,"Male",66,"Some College","Unemployed","White","Catholic","Married",1,3,3,3,2,2,1,2,2,3
+"758",7,2,5,1,1,2,1,"Male",44,"Degree","Full Time","White","None","Married",2,3,2,4,1,1,1,2,2,3
+"759",8,1,2,1,1,3,1,"Male",37,"High School","Full Time","White","None","Single",2,4,4,3,1,1,1,2,2,2
+"760",5,1,7,1,2,3,1,"Male",45,"High School","Full Time","White","None","Married",3,4,2,4,1,1,1,2,2,4
+"761",10,1,2,1,1,1,1,"Female",31,"Degree","Full Time","Hispanic","Christian","Separated",1,1,3,2,1,1,1,2,1,1
+"762",10,1,2,0,1,1,1,"Male",80,"Degree","Unemployed","White","None","Married",2,4,2,3,1,1,1,1,2,3
+"763",10,1,2,1,1,2,1,"Male",38,"High School","Full Time","White","Christian","Separated",2,4,2,4,1,1,1,1,2,2
+"764",10,3,2,1,1,1,1,"Female",19,"Some College","Full Time","Hispanic","Christian","Single",1,3,2,3,1,1,1,2,1,1
+"765",10,1,2,1,1,1,1,"Female",43,"Degree","Full Time","White","Christian","Separated",1,2,4,1,1,1,1,2,1,1
+"766",9,1,4,1,1,3,1,"Female",35,"Some College","Part Time","White","None","Married",2,3,4,3,1,1,1,2,2,1
+"767",9,1,7,1,2,3,1,"Female",30,"Degree","Full Time","White","Christian","Separated",3,1,1,5,1,1,1,2,2,1
+"768",10,1,1,1,1,1,1,"Female",67,"Some College","Unemployed","White","Christian","Separated",1,2,4,1,1,1,1,2,1,1
+"769",10,1,2,1,1,1,1,"Female",50,"High School","Unemployed","White","Catholic","Single",2,4,2,2,1,1,1,2,2,2
+"770",5,10,1,1,2,1,1,"Female",51,"High School","Part Time","Other","Judaism","Married",2,3,3,3,-1,2,1,1,1,1
+"771",8,1,3,1,1,2,1,"Male",19,"High School","Full Time","White","None","Single",1,4,3,3,1,1,1,2,2,2
+"772",9,1,4,1,1,2,1,"Male",28,"Degree","Full Time","White","Catholic","Married",3,2,3,2,1,1,1,1,2,2
+"773",10,1,2,1,1,2,1,"Female",31,"High School","Full Time","White","Catholic","Married",1,1,3,1,1,1,1,2,1,1
+"774",7,7,7,1,2,3,1,"Female",29,"High School","Housewife","White","None","Married",3,4,1,4,1,1,1,2,2,1
+"775",8,1,7,1,1,3,1,"Female",51,"Some College","Housewife","White","None","Married",3,4,1,4,1,2,1,2,2,1
+"776",9,1,3,1,1,2,1,"Female",30,"Degree","Full Time","White","Catholic","Married",2,2,4,2,1,1,1,2,1,2
+"777",6,1,5,1,2,3,1,"Male",27,"Primary School","Full Time","White","Catholic","Single",3,4,3,3,1,1,1,1,2,1
+"778",10,1,4,1,1,2,1,"Male",40,"Primary School","Full Time","White","None","Married",3,1,1,3,1,1,1,2,2,2
+"779",10,1,4,1,1,2,1,"Male",57,"Some College","Self Employed","White","Catholic","Married",2,3,3,3,1,1,1,2,2,1
+"780",8,1,4,1,1,1,1,"Male",58,"Some College","Full Time","White","Catholic","Married",2,4,2,4,1,1,1,2,2,2
+"781",10,4,2,1,1,1,1,"Male",42,"Primary School","Full Time","White","Catholic","Separated",2,1,4,2,1,1,1,2,1,1
+"782",4,5,5,0,1,3,1,"Male",62,"Primary School","Unemployed","White","Christian","Married",1,3,2,3,1,1,1,2,2,1
+"783",10,1,1,1,1,1,1,"Female",76,"Primary School","Unemployed","White","Catholic","Married",1,1,2,1,1,1,1,2,1,1
+"784",10,1,2,1,1,2,1,"Female",43,"Degree","Full Time","White","Other","Separated",1,1,2,2,1,1,1,-1,1,2
+"785",9,1,6,1,1,2,1,"Male",53,"Degree","Full Time","White","Christian","Married",2,4,4,1,1,1,1,2,2,1
+"786",9,1,1,1,1,2,1,"Female",66,"Primary School","Housewife","White","Christian","Married",2,2,2,2,1,1,1,2,2,2
+"787",9,6,3,1,1,1,1,"Female",49,"High School","Unemployed","White","None","Separated",2,4,2,4,1,1,1,2,1,2
+"788",9,1,1,1,1,1,1,"Male",72,"High School","Full Time","White","Christian","Married",3,2,2,2,1,1,1,2,1,3
+"789",10,3,6,1,1,1,1,"Female",73,"High School","Unemployed","White","Other","Widowed",2,3,2,3,1,1,1,2,1,1
+"790",10,1,1,1,1,1,1,"Female",58,"High School","Unemployed","White","Catholic","Separated",1,1,3,1,1,1,1,2,1,1
+"791",1,1,7,0,3,4,1,"Male",65,"Degree","Unemployed","White","None","Single",4,4,1,4,1,2,2,2,2,2
+"792",5,6,6,0,2,1,1,"Male",36,"High School","Part Time","Black","None","Married",1,4,3,4,1,1,1,2,2,3
+"793",10,1,2,1,1,1,1,"Female",49,"Some College","Full Time","White","Christian","Married",1,2,4,1,1,1,1,1,1,1
+"794",10,6,3,1,1,1,1,"Female",29,"Some College","Housewife","Black","Other","Married",2,1,2,4,1,1,1,2,2,3
+"795",10,5,7,1,1,2,1,"Male",22,"High School","Full Time","White","None","Single",2,4,2,3,1,1,1,2,2,1
+"796",9,4,2,1,1,1,1,"Female",42,"Primary School","Housewife","White","Catholic","Married",2,3,4,2,1,1,1,2,1,1
+"797",8,1,4,1,1,2,1,"Female",73,"Primary School","Unemployed","White","None","Widowed",3,3,2,3,1,1,1,2,2,1
+"798",10,3,1,1,1,1,1,"Female",38,"Primary School","Full Time","White","Other","Married",1,3,2,2,1,1,1,2,2,2
+"799",10,1,1,1,1,1,1,"Male",20,"High School","Full Time","Black","None","Single",2,3,1,1,1,1,1,1,1,1
+"800",9,3,4,0,1,1,1,"Female",34,"Primary School","Full Time","White","None","Married",1,3,3,3,1,1,1,2,2,3
+"801",10,1,4,1,1,1,1,"Male",49,"Primary School","Unemployed","White","None","Separated",2,2,2,2,1,1,1,2,2,2
+"802",10,1,2,1,1,1,1,"Male",20,"High School","Full Time","Black","Other","Single",1,3,3,3,1,1,1,2,1,2
+"803",6,1,7,1,2,4,1,"Male",56,"Degree","Full Time","White","None","Married",4,3,1,3,-1,-1,1,2,2,2
+"804",9,1,6,1,1,1,1,"Female",47,"Primary School","Full Time","White","Catholic","Separated",2,2,4,2,-1,-1,-1,2,2,2
+"805",9,2,2,1,1,1,1,"Male",38,"Degree","Full Time","White","Christian","Married",2,2,5,1,1,1,1,2,1,2
+"806",10,2,1,1,1,1,1,"Female",44,"Degree","Full Time","White","Christian","Separated",2,2,3,2,1,1,1,2,1,2
+"807",10,1,1,1,1,1,1,"Female",53,"Degree","Self Employed","White","Christian","Married",1,2,4,1,1,1,1,2,1,1
+"808",8,1,3,1,1,2,1,"Female",52,"Degree","Unemployed","White","Christian","Married",2,3,4,2,1,1,1,2,2,1
+"809",10,4,1,1,1,2,1,"Male",18,"Primary School","Full Time","White","Other","Single",1,1,2,3,1,1,1,2,2,2
+"810",10,1,3,1,1,2,1,"Female",44,"Some College","Part Time","White","None","Married",1,4,2,3,1,1,1,1,2,2
+"811",8,5,3,1,1,2,1,"Male",31,"High School","Full Time","White","Christian","Married",2,3,2,4,1,1,1,2,1,2
+"812",10,1,1,1,1,2,1,"Female",42,"High School","Full Time","White","Other","Married",3,3,1,3,2,1,1,2,1,1
+"813",9,3,5,1,1,2,1,"Male",51,"Degree","Full Time","White","Judaism","Separated",2,2,3,2,1,1,1,2,2,2
+"814",7,2,7,1,1,3,1,"Male",19,"Some College","Other","White","Judaism","Single",2,3,3,3,1,-1,1,2,2,1
+"815",2,1,7,0,2,3,1,"Male",50,"Degree","Full Time","White","Judaism","Single",3,5,4,5,1,2,2,1,2,1
+"816",9,2,2,1,1,1,1,"Female",35,"Degree","Housewife","White","Catholic","Married",2,2,3,2,1,1,1,2,1,3
+"817",10,1,1,1,1,1,1,"Female",56,"Primary School","Unemployed","White","Other","Single",1,1,5,1,1,1,1,2,1,4
+"818",10,1,5,1,2,1,1,"Female",43,"Primary School","Full Time","White","None","Married",2,2,3,2,1,1,1,2,2,1
+"819",10,2,2,1,1,1,1,"Female",44,"Degree","Full Time","White","Catholic","Married",1,4,4,2,1,1,1,2,1,1
+"820",2,1,4,1,2,3,1,"Male",51,"Degree","Full Time","White","Judaism","Married",3,5,1,4,-1,2,1,2,1,2
+"821",10,1,7,1,1,2,1,"Female",39,"Primary School","Full Time","White",NA,"Separated",2,3,3,3,1,1,1,-1,2,1
+"822",8,4,4,1,1,2,1,"Male",26,"Degree","Self Employed","White","Catholic","Single",2,1,1,2,1,1,1,-1,1,1
+"823",9,1,3,1,1,1,1,"Female",45,"Degree","Full Time","White","Christian","Married",2,3,2,2,1,1,1,2,2,2
+"824",10,1,1,1,1,1,1,"Male",46,"High School","Full Time","Black","Christian","Married",1,2,4,2,1,1,1,2,1,1
+"825",8,1,3,1,1,2,1,"Male",22,"Primary School","Self Employed","White","Christian","Separated",1,1,2,1,1,1,1,2,1,2
+"826",10,2,6,1,1,1,1,"Female",60,"High School","Housewife","White","Christian","Married",3,3,3,2,1,1,1,2,1,2
+"827",9,1,7,1,1,2,1,"Male",23,"Some College","Full Time","White","Catholic","Single",2,2,3,4,1,1,1,2,2,2
+"828",1,10,7,0,3,1,1,"Female",47,"High School","Full Time","White","Other","Married",3,3,3,3,1,2,2,2,2,1
+"829",8,2,6,0,1,2,1,"Male",59,"Degree","Full Time","White","Christian","Married",4,3,2,4,1,2,1,2,2,1
+"830",10,1,1,1,1,1,1,"Female",51,"Degree","Full Time","White","Catholic","Single",2,5,2,2,1,1,1,2,1,1
+"831",10,1,4,1,2,1,1,"Female",39,"High School","Unemployed","Black","Other","Married",1,3,2,2,1,1,1,2,1,3
+"832",10,1,1,1,1,1,1,"Male",66,"Degree","Unemployed","Black","Christian","Married",1,1,2,1,1,1,1,2,1,1
+"833",2,1,7,1,1,3,1,"Male",39,"Degree","Self Employed","White","None","Married",-1,5,4,3,1,2,2,2,2,2
+"834",8,1,3,1,1,2,1,"Male",30,"High School","Full Time","White",NA,"Single",2,4,4,3,1,1,1,2,1,2
+"835",6,5,1,1,1,1,1,"Female",36,"Primary School","Full Time","Black","Other","Separated",1,1,2,2,1,1,1,2,1,2
+"836",10,1,2,1,1,1,1,"Female",57,"Degree","Unemployed","White","Christian","Separated",3,3,3,3,1,1,1,2,1,1
+"837",9,1,2,1,1,2,1,"Female",59,"Some College","Unemployed","White","Christian","Separated",2,-1,2,3,-1,1,1,2,1,3
+"838",10,1,2,1,-1,2,1,"Female",63,"Some College","Unemployed","White","Catholic","Separated",1,3,1,2,1,1,1,2,1,2
+"839",10,1,4,1,1,1,1,"Male",20,"High School","Full Time","Black","Other","Married",1,3,1,3,1,1,1,2,2,2
+"840",10,1,4,1,1,3,1,"Male",48,"Some College","Full Time","Hispanic","Catholic","Married",1,-1,-1,2,1,1,1,2,1,2
+"841",10,1,1,1,1,1,1,"Female",59,"High School","Part Time","White","Catholic","Separated",1,1,4,1,1,1,1,2,1,1
+"842",2,1,7,1,2,2,1,"Female",33,"Degree","Full Time","White","None","Single",2,3,4,3,1,2,1,2,2,1
+"843",4,5,4,1,1,2,1,"Male",69,"Degree","Unemployed","White","Catholic","Married",2,4,1,4,1,1,1,2,2,1
+"844",10,10,2,1,1,1,1,"Female",46,"Degree","Part Time","White",NA,"Single",1,3,2,1,1,1,1,2,1,1
+"845",9,1,4,1,1,1,1,"Female",29,"Degree","Full Time","Black","Other","Married",2,2,2,2,1,1,1,2,1,2
+"846",3,2,2,1,2,2,1,"Female",54,"Degree","Full Time","White","Christian","Married",2,5,4,-1,1,2,1,2,1,2
+"847",10,1,1,1,1,2,1,"Male",48,"Degree","Full Time","White","None","Single",3,3,4,3,1,1,1,2,2,1
+"848",2,1,6,1,1,1,1,"Female",57,"High School","Unemployed","White","Catholic","Single",1,2,2,2,1,1,1,2,2,2
+"849",8,6,5,1,1,3,1,"Male",43,"Some College","Full Time","White","Other","Single",2,3,2,3,1,2,1,2,2,1
+"850",10,1,3,0,1,1,1,"Male",60,"High School","Full Time","White","Catholic","Married",2,4,2,3,1,1,1,2,2,1
+"851",5,1,7,0,1,-1,1,"Male",44,"Primary School","Full Time","White","None","Married",3,4,2,4,1,2,2,2,1,4
+"852",5,1,2,1,1,2,1,"Female",54,"Degree","Unemployed","White","Catholic","Married",1,4,2,4,1,2,1,2,2,1
+"853",10,1,1,1,1,1,1,"Female",62,"Some College","Unemployed","White","Catholic","Married",1,5,1,5,1,1,1,2,1,1
+"854",3,7,7,1,2,4,1,"Female",29,"Degree","Full Time","White","None","Married",3,5,2,3,1,2,1,2,2,2
+"855",7,3,4,1,1,2,1,"Male",37,"Degree","Full Time","White","Catholic","Single",2,2,2,2,1,1,1,2,2,2
+"856",7,6,3,0,1,1,1,"Female",78,"High School","Unemployed","White","Judaism","Widowed",2,4,1,4,2,2,1,2,1,1
+"857",1,3,7,1,3,3,1,"Male",20,"Some College","Other","Other","None","Single",4,4,2,4,-1,2,2,2,2,2
+"858",10,1,5,1,1,1,1,"Male",42,"Degree","Unemployed","Other","Other","Single",4,2,4,2,1,1,1,2,1,1
+"859",10,1,2,1,1,1,1,"Female",46,"High School","Part Time","White","Catholic","Married",2,3,2,2,1,1,1,2,1,3
+"860",1,10,7,0,2,4,1,"Male",27,"Some College","Full Time","White","None","Single",4,3,1,3,2,2,2,2,2,2
+"861",6,6,7,0,1,2,1,"Male",66,"Some College","Unemployed","White","Catholic","Widowed",4,5,1,3,-1,2,1,2,2,1
+"862",10,1,3,0,1,2,1,"Male",22,"High School","Other","White","Catholic","Single",3,3,2,3,1,1,1,2,2,1
+"863",10,10,2,1,1,1,1,"Female",69,"High School","Unemployed","White","Catholic","Widowed",1,4,2,4,1,1,1,2,2,1
+"864",10,5,6,1,1,2,1,"Female",32,"High School","Full Time","Hispanic","Christian","Married",3,2,2,3,1,2,1,2,2,1
+"865",10,1,2,1,1,1,1,"Female",68,"Primary School","Unemployed","White","Christian","Married",1,3,4,2,1,1,1,2,1,2
+"866",10,1,2,1,1,1,1,"Male",79,"Degree","Unemployed","White","Christian","Married",2,2,4,2,1,1,1,2,1,1
+"867",10,1,2,1,1,1,1,"Female",45,"Degree","Full Time","White","Catholic","Married",2,4,4,2,1,1,1,2,1,2
+"868",10,1,2,1,1,1,1,"Male",54,"Some College","Other","White","Christian","Married",1,1,4,1,1,1,1,2,1,1
+"869",10,1,3,1,1,1,1,"Male",44,"Degree","Self Employed","Other","Christian","Separated",2,4,2,4,1,1,1,2,1,3
+"870",10,1,1,1,1,1,1,"Female",23,"Degree","Full Time","White","Christian","Married",2,5,4,4,1,-1,1,2,1,1
+"871",9,3,1,1,1,1,1,"Male",78,"Some College","Unemployed","White","Catholic","Widowed",1,2,2,2,1,1,1,2,1,2
+"872",9,1,3,1,1,2,1,"Female",38,"Primary School","Full Time","Hispanic","Catholic","Married",3,4,3,4,1,1,1,1,2,1
+"873",8,3,2,1,1,1,1,"Female",31,"Degree","Full Time","White","Catholic","Married",1,2,2,2,1,1,1,2,1,1
+"874",10,1,2,1,1,1,1,"Female",30,"Primary School","Self Employed","White","Catholic","Married",1,2,1,1,1,1,1,2,1,2
+"875",10,2,2,1,1,1,1,"Male",52,"Degree","Full Time","White","Christian","Married",2,4,3,2,1,1,1,2,1,1
+"876",10,1,3,1,1,1,1,"Male",74,"Degree","Unemployed","White","Christian","Married",1,2,2,2,1,1,1,2,1,1
+"877",10,6,2,1,1,1,1,"Male",57,"Degree","Unemployed","White","Catholic","Married",1,3,4,2,1,1,1,2,1,1
+"878",10,3,3,1,1,1,1,"Female",72,"Primary School","Housewife","Black","Other","Married",2,1,4,4,1,1,1,2,1,1
+"879",7,4,3,1,1,2,1,"Female",56,"High School","Full Time","Black","Catholic","Married",3,4,2,4,1,1,1,2,1,3
+"880",8,1,2,1,1,1,1,"Male",66,"High School","Unemployed","Black","Other","Married",1,1,1,1,2,2,1,2,1,1
+"881",10,1,2,1,1,1,1,"Female",69,"Primary School","Unemployed","Black","Catholic","Separated",1,1,4,2,1,1,1,2,1,1
+"882",9,1,6,0,1,1,1,"Male",38,"Primary School","Full Time","White","Other","Married",1,3,4,3,1,1,1,2,2,2
+"883",7,1,2,1,1,3,1,"Male",26,"Degree","Full Time","Hispanic","Other","Single",3,4,2,4,1,1,1,2,2,1
+"884",9,8,6,1,1,3,1,"Male",26,"High School","Full Time","Hispanic","None","Single",2,4,2,2,1,1,1,2,2,1
+"885",8,3,6,1,1,2,1,"Female",20,"High School","Other","Black","Other","Single",3,5,4,4,1,1,1,1,2,1
+"886",10,1,2,1,1,1,1,"Male",81,"Degree","Full Time","White","Catholic","Widowed",1,2,2,4,1,1,1,2,1,2
+"887",10,1,2,1,1,1,1,"Female",19,"Primary School","Unemployed","Black","Other","Single",1,3,3,2,1,1,1,2,1,1
+"888",10,3,1,1,1,1,1,"Female",18,"High School","Other","Black","Other","Single",2,3,3,2,1,1,1,2,1,2
+"889",10,1,1,1,1,1,1,"Female",33,"Degree","Full Time","White","Catholic","Married",2,1,5,1,1,1,1,2,1,1
+"890",10,2,1,1,1,1,1,"Female",51,"High School","Full Time","Black","Christian","Widowed",1,1,4,2,1,1,1,2,1,1
+"891",10,1,2,1,1,1,1,"Male",79,"Some College","Unemployed","White","Christian","Married",2,4,4,2,1,1,1,2,1,1
+"892",5,1,7,0,1,3,1,"Male",30,"High School","Full Time","White",NA,"Married",3,5,1,5,1,1,1,2,2,1
+"893",8,1,7,1,1,2,1,"Female",28,"Degree","Full Time","White","Christian","Single",1,3,2,3,1,1,1,2,2,1
+"894",10,9,6,1,1,1,1,"Female",25,"Degree","Full Time","White",NA,"Married",1,1,4,1,1,1,1,1,2,1
+"895",10,3,2,1,1,1,1,"Male",30,"Degree","Full Time","White","Catholic","Married",2,5,2,2,1,1,1,2,1,2
+"896",7,1,4,1,1,1,1,"Male",25,"High School","Full Time","White","None","Married",1,3,3,2,1,1,1,2,2,3
+"897",10,1,3,1,1,3,1,"Female",26,"High School","Full Time","White","Christian","Single",3,2,4,2,1,1,1,2,2,3
+"898",10,1,5,1,1,2,1,"Male",27,"Primary School","Full Time","White","None","Single",2,4,4,2,1,1,1,2,1,1
+"899",1,5,7,1,2,4,1,"Male",20,"Some College","Full Time","White",NA,"Single",4,5,1,5,1,2,2,2,2,1
+"900",10,1,3,1,1,1,1,"Female",20,"High School","Full Time","White","Other","Single",1,4,2,3,1,1,1,2,2,2
+"901",7,1,3,1,1,3,1,"Male",31,"High School","Full Time","White","Christian","Married",3,3,2,1,1,1,1,2,1,1
+"902",8,7,5,1,1,2,1,"Male",59,"Degree","Unemployed","White","Catholic","Married",3,4,1,5,1,1,1,2,2,2
+"903",6,1,6,1,1,3,1,"Female",57,"Degree","Part Time","White","Christian","Married",2,5,3,3,1,2,1,2,2,1
+"904",9,1,6,1,1,1,1,"Male",53,"Some College","Unemployed","White","Catholic","Separated",2,5,1,5,1,1,1,2,2,1
+"905",10,1,7,1,1,1,1,"Female",23,"Primary School","Full Time","Hispanic","None","Married",2,1,3,3,1,1,1,1,2,1
+"906",8,1,2,1,1,1,1,"Female",52,"Degree","Full Time","White","Other","Married",2,5,4,3,1,2,1,2,1,1
+"907",8,6,5,1,1,2,1,"Female",27,"Degree","Full Time","White","Christian","Separated",1,4,3,3,1,1,1,2,2,1
+"908",10,1,2,1,1,1,1,"Female",38,"Primary School","Full Time","White","Christian","Separated",1,3,2,2,1,1,1,2,1,1
+"909",1,1,5,0,2,3,1,"Male",20,"Degree","Full Time","White","None","Single",3,4,2,4,2,2,2,2,2,3
+"910",10,1,2,1,1,1,1,"Male",38,"Primary School","Self Employed","White","Other","Married",1,1,4,1,1,1,1,2,1,1
+"911",9,8,3,1,1,2,1,"Female",38,"High School","Full Time","White","None","Married",3,4,1,3,1,1,1,2,2,2
+"912",6,1,7,0,1,3,1,"Male",35,"Primary School","Full Time","White","None","Married",4,4,2,4,1,1,1,2,2,2
+"913",10,2,3,1,2,2,1,"Female",28,"Some College","Part Time","White","Christian","Single",2,2,3,2,1,1,1,2,1,2
+"914",3,4,7,1,2,3,1,"Male",20,"Some College","Other","Black","Catholic","Single",4,5,1,3,2,2,1,1,1,2
+"915",9,3,4,1,2,3,1,"Male",22,"Primary School","Full Time","Hispanic","None","Married",3,3,2,4,1,1,1,2,2,1
+"916",10,1,2,1,1,1,1,"Female",31,"Some College","Full Time","Hispanic","Catholic","Single",1,3,1,3,1,1,1,2,2,1
+"917",10,1,2,1,1,1,1,"Female",35,"Degree","Full Time","Black","Christian","Married",1,2,1,4,1,1,1,2,1,1
+"918",10,1,3,1,1,1,1,"Male",47,"Primary School","Full Time","Black","None","Married",1,4,4,2,1,1,1,2,1,2
+"919",10,2,1,1,2,2,1,"Male",39,"Some College","Full Time","Black","None","Married",2,5,1,4,1,2,1,2,2,1
+"920",10,4,1,1,2,2,1,"Male",41,"Degree","Full Time","Black","None","Married",2,4,1,5,1,2,1,2,2,1
+"921",1,5,7,0,2,4,1,"Male",22,"Degree","Unemployed","Black","None","Single",4,4,1,4,1,2,2,1,2,1
+"922",10,2,6,1,1,1,1,"Female",32,"Some College","Full Time","Black","None","Single",1,-1,2,4,1,1,1,2,2,2
+"923",10,1,6,1,1,2,1,"Male",35,"Primary School","Full Time","Hispanic","Catholic","Married",3,1,4,1,1,1,1,1,2,1
+"924",10,1,2,1,1,2,1,"Female",47,"Primary School","Full Time","Black","None","Married",1,1,1,2,1,1,1,2,2,1
+"925",7,1,7,1,2,3,1,"Female",52,"Degree","Full Time","White","Judaism","Married",4,2,2,4,1,1,1,2,2,1
+"926",6,1,7,1,1,3,1,"Female",22,"Some College","Part Time","White","Catholic","Single",2,3,1,3,1,1,1,2,2,2
+"927",10,4,3,1,1,2,1,"Male",26,"Primary School","Unemployed","White","Catholic","Single",1,5,2,2,-1,1,1,2,2,2
+"928",10,1,3,1,2,2,1,"Female",66,"High School","Part Time","White","Christian","Married",2,3,2,2,1,1,1,2,1,2
+"929",10,1,2,1,1,1,1,"Female",35,"Degree","Part Time","White","Catholic","Married",1,3,4,2,1,1,1,2,1,1
+"930",10,4,5,0,1,2,1,"Male",34,"Some College","Part Time","White","Catholic","Single",2,3,3,3,1,1,1,2,2,4
+"931",10,1,6,1,2,3,1,"Female",57,"Degree","Full Time","Black","Christian","Married",2,5,4,-1,1,1,1,2,2,1
+"932",10,1,5,1,1,2,1,"Female",29,"High School","Full Time","White","Christian","Married",2,4,2,3,1,1,1,2,2,1
+"933",7,3,3,1,2,2,1,"Female",41,"High School","Unemployed","White","Christian","Married",2,3,3,3,-1,-1,-1,2,1,3
+"934",7,2,3,1,1,3,1,"Male",21,"Some College","Part Time","White","Catholic","Single",2,4,3,2,1,1,1,2,1,3
+"935",4,1,3,0,2,2,1,"Male",39,"Degree","Full Time","White","Judaism","Married",3,4,3,4,1,1,1,2,1,2
+"936",1,1,7,0,3,4,1,"Male",72,"Some College","Unemployed","White","None","Married",3,1,1,5,2,2,2,2,2,4
+"937",10,1,6,1,1,2,1,"Female",46,"Primary School","Full Time","White","Other","Separated",3,4,2,4,1,1,1,2,2,1
+"938",10,1,2,1,1,1,1,"Female",39,"Degree","Part Time","White","Christian","Married",3,2,4,2,1,1,1,2,1,1
+"939",1,7,7,0,-1,4,1,"Female",24,"Some College","Full Time","White","None","Married",4,4,1,5,2,2,2,2,2,3
+"940",10,1,2,1,1,1,1,"Female",46,"Primary School","Part Time","White","Christian","Married",2,2,3,2,1,1,1,2,1,2
+"941",10,4,4,1,1,1,1,"Male",31,"Some College","Full Time","Black","Other","Married",1,4,4,4,1,1,1,2,1,1
+"942",10,1,2,1,1,1,1,"Female",31,"Some College","Other","White","Other","Separated",3,1,5,1,1,1,1,2,1,1
+"943",10,1,3,1,1,1,1,"Male",45,"Primary School","Full Time","White","Other","Widowed",3,1,2,1,1,1,1,2,1,1
+"944",10,1,4,1,-1,2,1,"Male",27,"Degree","Full Time","White","Other","Married",3,5,4,3,1,-1,1,2,1,1
+"945",10,1,2,1,1,1,1,"Female",49,"Degree","Full Time","Black","Other","Married",2,1,4,1,1,1,1,2,1,2
+"946",8,2,5,0,1,2,1,"Male",23,"Degree","Full Time","White","None","Married",2,3,1,3,1,1,1,2,2,2
+"947",10,5,3,1,1,1,1,"Male",23,"High School","Full Time","White","None","Single",1,3,2,2,1,1,1,1,1,3
+"948",8,4,4,0,1,3,1,"Male",31,"Degree","Full Time","White","Catholic","Single",3,3,1,4,1,1,1,2,2,2
+"949",10,10,3,1,1,1,1,"Male",65,"Some College","Full Time","Black","Other","Separated",1,3,2,4,1,1,1,2,2,1
+"950",8,1,2,1,1,1,1,"Female",57,"Primary School","Full Time","White","Catholic","Separated",1,3,4,3,1,1,1,2,1,2
+"951",10,1,1,1,1,1,1,"Female",76,"Degree","Unemployed","White","Christian","Widowed",2,1,2,2,1,1,1,2,1,1
+"952",1,3,5,0,2,4,1,"Male",33,"Degree","Full Time","White","None","Single",3,5,2,4,-1,2,2,2,2,2
+"953",10,1,2,1,1,1,1,"Female",38,"Degree","Part Time","White","Christian","Married",2,2,4,1,1,1,1,2,1,1
+"954",10,2,2,1,1,1,1,"Female",56,"Primary School","Self Employed","White","Other","Separated",1,4,2,3,1,1,1,2,1,1
+"955",10,1,4,1,1,2,1,"Female",33,"High School","Full Time","White","Other","Separated",2,2,3,4,1,1,1,2,2,1
+"956",7,1,2,1,1,1,1,"Male",70,"Degree","Unemployed","White","Other","Married",1,4,4,2,1,1,1,2,1,1
+"957",10,1,2,1,2,1,1,"Female",31,"Degree","Unemployed","Black","Other","Married",1,1,4,2,1,1,1,2,1,1
+"958",9,2,7,0,1,2,1,"Male",22,"Primary School","Unemployed","Black","None","Single",1,2,3,3,1,1,1,2,2,3
+"959",7,1,4,1,1,1,1,"Female",31,"High School","Full Time","White","Christian","Married",1,1,3,3,1,1,1,1,2,1
+"960",10,5,3,1,1,1,1,"Male",53,"Some College","Full Time","White","Catholic","Married",1,4,4,2,1,1,1,2,1,1
+"961",10,1,2,1,1,2,1,"Female",38,"Degree","Full Time","White","Catholic","Separated",2,4,1,3,1,1,1,2,2,1
+"962",9,1,6,1,1,2,1,"Female",61,"High School","Full Time","White","Other","Married",2,3,2,3,1,1,1,2,2,2
+"963",10,3,1,1,1,1,1,"Female",63,"High School","Part Time","White","Catholic","Single",2,5,1,3,1,1,1,1,1,2
+"964",7,1,2,1,1,2,1,"Female",20,"High School","Other","White","Catholic","Single",2,4,3,3,1,1,1,2,1,3
+"965",10,1,2,1,1,2,1,"Female",27,"Some College","Full Time","Black","None","Single",4,2,3,2,1,1,1,2,2,1
+"966",9,1,5,1,1,1,1,"Male",50,"High School","Full Time","White","Christian","Married",3,1,5,1,1,1,1,2,2,1
+"967",9,1,2,1,1,1,1,"Female",38,"High School","Housewife","White","Catholic","Married",2,1,3,3,1,1,1,2,1,2
+"968",4,1,7,1,1,3,1,"Male",35,"Degree","Full Time","White","None","Married",2,3,4,2,1,2,1,2,2,3
+"969",8,1,4,1,1,2,1,"Female",36,"Degree","Housewife","White","Other","Married",2,2,2,2,1,1,1,2,1,2
+"970",6,10,7,0,1,3,1,"Male",40,"High School","Full Time","White","Catholic","Single",2,5,1,3,1,1,1,2,2,3
+"971",9,2,7,1,1,3,1,"Male",38,"High School","Full Time","White","None","Married",3,4,2,3,1,1,1,2,2,3
+"972",10,1,2,1,1,2,1,"Male",38,"Some College","Full Time","White","Christian","Married",2,3,2,2,1,1,1,2,1,2
+"973",5,2,7,0,3,4,1,"Male",23,"Some College","Full Time","White","None","Married",3,5,1,5,1,2,2,2,2,1
+"974",10,1,7,1,1,2,1,"Female",47,"Primary School","Housewife","White","None","Married",3,3,1,3,1,-1,1,2,2,1
+"975",10,1,2,1,1,1,1,"Female",40,"Degree","Full Time","White","Christian","Single",1,4,4,2,1,1,1,2,1,2
+"976",1,2,7,1,3,4,1,"Female",27,"Degree","Full Time","White","None","Married",3,5,1,5,2,2,2,2,2,2
+"977",1,4,7,0,2,3,1,"Male",21,"Primary School","Full Time","White","None","Single",3,5,1,4,1,2,2,2,2,4
+"978",5,1,7,0,2,3,1,"Male",20,"High School","Other","Other","None","Single",1,4,2,3,1,1,1,2,2,2
+"979",10,1,2,1,1,1,1,"Female",40,"Primary School","Part Time","White","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"980",10,1,1,1,1,1,1,"Female",44,"Primary School","Housewife","Black","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"981",9,1,2,1,1,2,1,"Male",30,"Degree","Full Time","White","Other","Married",3,5,1,4,1,2,1,2,2,1
+"982",10,1,2,1,1,1,1,"Male",19,"Some College","Unemployed","White","Catholic","Single",1,3,4,1,1,1,1,2,1,1
+"983",9,1,4,1,1,3,1,"Female",75,"High School","Unemployed","White","None","Widowed",2,4,2,4,1,-1,1,2,2,3
+"984",2,1,5,1,2,3,1,"Male",30,"High School","Full Time","White","None","Single",2,5,2,5,2,2,1,2,2,1
+"985",10,1,2,1,1,1,1,"Female",60,"High School","Housewife","White","Catholic","Married",1,4,4,2,1,1,1,2,1,1
+"986",10,1,2,1,1,1,1,"Female",34,"High School","Housewife","White","Catholic","Married",1,2,4,2,1,1,1,2,1,1
+"987",1,1,7,1,2,3,1,"Female",29,"High School","Full Time","White",NA,"Married",1,4,2,3,1,-1,-1,2,2,1
+"988",10,1,2,1,1,1,1,"Female",32,"High School","Housewife","White","Catholic","Married",1,2,4,2,1,1,1,2,1,3
+"989",10,1,5,1,2,2,1,"Male",27,"Degree","Full Time","Black","Christian","Single",1,1,1,4,1,2,1,1,2,1
+"990",8,6,3,1,1,2,1,"Male",63,"Degree","Part Time","Black","Christian","Married",2,4,2,4,1,1,1,2,2,1
+"991",10,1,5,0,1,2,1,"Male",23,"Some College","Full Time","White","Catholic","Single",1,5,1,5,1,1,1,2,2,1
+"992",9,2,2,0,1,2,1,"Male",34,"Degree","Full Time","White","Christian","Married",1,3,2,3,1,1,1,2,1,3
+"993",10,8,7,0,2,2,1,"Male",29,"High School","Full Time","Black","None","Single",3,1,2,2,1,1,1,-1,2,1
+"994",10,1,2,1,1,1,1,"Female",43,"High School","Unemployed","White","Other","Separated",1,2,3,3,2,1,1,2,1,1
+"995",9,3,2,1,1,1,1,"Male",32,"Degree","Full Time","White","Christian","Married",2,4,2,4,1,1,1,2,1,3
+"996",10,1,7,1,1,2,1,"Female",23,"High School","Housewife","Black","Other","Married",1,2,2,-1,1,1,1,2,1,1
+"997",10,1,2,1,1,1,1,"Female",53,"Degree","Full Time","White","Christian","Married",2,3,2,2,1,1,1,2,1,2
+"998",10,1,4,1,1,2,1,"Female",62,"High School","Full Time","White","Christian","Married",2,4,3,3,1,1,1,2,2,2
+"999",10,2,4,1,1,2,1,"Female",38,"High School","Part Time","White","None","Married",1,1,2,2,1,1,1,2,2,1
+"1000",10,1,2,1,1,1,1,"Female",45,"Degree","Full Time","White","Catholic","Married",2,4,4,3,1,1,1,2,1,3
+"1001",9,2,2,1,1,1,1,"Male",51,"Degree","Full Time","White","Other","Separated",3,4,4,4,1,1,1,2,1,1
+"1002",10,1,2,1,2,1,1,"Male",32,"High School","Full Time","White","Other","Single",1,3,3,3,1,1,1,2,1,2
+"1003",10,1,2,1,1,1,1,"Male",62,"High School","Unemployed","White","Catholic","Married",1,4,2,2,1,1,1,2,2,1
+"1004",10,1,1,1,1,1,1,"Female",24,"High School","Part Time","White","None","Married",2,3,2,2,1,1,1,2,1,1
+"1005",10,1,2,1,1,1,1,"Female",73,"High School","Unemployed","Other","Christian","Married",1,3,4,1,1,1,1,2,1,1
+"1006",7,1,5,1,1,2,1,"Male",41,"Some College","Full Time","White","Other","Married",1,4,2,3,1,1,1,2,2,2
+"1007",10,1,4,1,1,2,1,"Male",18,"High School","Full Time","White","Catholic","Single",1,4,3,1,1,1,1,2,2,3
+"1008",10,1,1,1,1,1,1,"Female",39,"Some College","Housewife","White","Catholic","Married",1,2,3,2,1,1,1,2,1,2
+"1009",6,1,2,0,1,2,1,"Male",55,"Degree","Unemployed","White","Catholic","Married",2,4,3,3,1,1,1,2,1,2
+"1010",10,1,2,1,1,1,1,"Female",29,"High School","Part Time","White","Christian","Married",2,3,3,2,1,1,1,2,1,1
+"1011",5,1,4,0,2,2,1,"Male",41,"High School","Full Time","White","Catholic","Married",2,3,2,3,1,1,1,2,2,2
+"1012",10,1,2,1,1,1,1,"Female",39,"High School","Full Time","White","Other","Married",3,3,2,3,2,1,1,2,1,1
+"1013",10,1,2,1,1,1,1,"Female",74,"Degree","Unemployed","White","Christian","Widowed",1,2,2,2,1,1,1,2,1,1
+"1014",10,1,2,1,1,1,1,"Male",64,"High School","Part Time","White","None","Married",1,2,4,2,1,1,1,2,1,1
+"1015",9,3,2,1,2,1,1,"Female",63,"High School","Unemployed","White","Catholic","Married",2,3,3,3,1,1,1,2,2,1
+"1016",8,5,3,1,2,2,1,"Male",77,"High School","Unemployed","White","Christian","Widowed",1,4,4,5,1,1,1,2,1,2
+"1017",10,5,1,1,1,1,1,"Male",27,"Degree","Full Time","Black","Other","Married",1,3,3,2,1,1,1,1,1,1
+"1018",10,1,1,1,1,1,1,"Female",72,"Degree","Unemployed","White","Catholic","Married",2,3,4,2,1,1,1,2,1,4
+"1019",10,1,2,1,1,1,1,"Male",60,"Primary School","Unemployed","White","Catholic","Married",1,1,2,2,1,1,1,2,1,1
+"1020",10,1,1,1,1,1,1,"Female",61,"High School","Part Time","White","Catholic","Married",2,4,2,4,1,1,1,2,1,3
+"1021",10,1,2,1,1,2,1,"Female",36,"Some College","Full Time","White","Other","Separated",3,3,2,3,1,1,1,2,1,2
+"1022",10,1,3,1,1,1,1,"Female",54,"Primary School","Housewife","White","Other","Married",1,1,2,1,1,1,1,2,2,1
+"1023",8,2,7,1,1,2,1,"Female",26,"Degree","Housewife","White","None","Married",2,-1,2,3,1,1,1,2,2,1
+"1024",10,1,1,1,1,1,1,"Male",47,"Degree","Unemployed","White","Christian","Married",1,3,3,2,1,1,1,2,1,1
+"1025",10,1,2,1,1,1,1,"Female",37,"High School","Housewife","White","Other","Married",2,2,4,1,1,1,1,2,1,1
+"1026",10,1,6,1,1,1,1,"Male",21,"Primary School","Full Time","White",NA,"Married",2,1,3,2,1,1,1,2,2,1
+"1027",10,2,1,1,1,1,1,"Male",39,"High School","Full Time","White","Christian","Married",2,2,4,2,1,1,1,2,1,2
+"1028",10,2,1,1,1,1,1,"Female",44,"Some College","Part Time","White","Other","Married",2,1,4,1,1,1,1,2,1,1
+"1029",2,2,4,0,2,4,1,"Male",21,"Degree","Full Time","White","Other","Single",3,4,1,4,1,1,1,2,2,2
+"1030",10,1,1,1,1,1,1,"Female",36,"Degree","Full Time","White","Other","Single",1,1,2,2,1,1,1,2,1,1
+"1031",4,2,7,0,2,3,1,"Male",19,"Primary School","Full Time","White","None","Married",3,4,2,3,1,2,2,2,2,3
+"1032",7,3,6,1,1,3,1,"Male",41,"High School","Full Time","White","Catholic","Married",3,5,4,3,1,1,1,2,2,2
+"1033",10,1,2,1,1,1,1,"Male",29,"Some College","Other","Black","Christian","Single",1,1,5,1,1,1,1,2,2,1
+"1034",10,1,1,1,1,1,1,"Female",55,"Degree","Housewife","Black","Christian","Married",1,3,1,1,1,1,1,2,1,1
+"1035",8,1,4,1,1,3,1,"Female",25,"Some College","Full Time","White","Christian","Single",2,4,4,2,1,1,1,2,2,2
+"1036",10,1,1,1,1,1,1,"Female",65,"Degree","Unemployed","White","Christian","Married",2,4,2,2,1,1,1,2,1,2
+"1037",10,1,1,1,1,1,1,"Female",40,"Some College","Unemployed","White",NA,"Married",2,3,3,3,1,1,1,2,1,1
+"1038",7,1,4,1,2,3,1,"Female",65,"Degree","Full Time","White","Christian","Widowed",2,3,4,2,1,1,1,2,2,2
+"1039",10,1,1,1,1,1,1,"Male",22,"Degree","Full Time","White","None","Single",1,1,4,2,1,1,1,2,1,1
+"1040",10,1,2,1,1,2,1,"Male",58,"Degree","Full Time","White","Christian","Separated",1,4,4,2,1,1,1,2,1,2
+"1041",7,1,2,1,1,1,1,"Female",49,"High School","Full Time","White","None","Single",2,4,4,1,1,1,1,2,1,2
+"1042",6,1,7,0,1,2,1,"Male",46,"Some College","Other","White","None","Married",3,3,5,1,1,1,1,2,2,3
+"1043",10,1,2,1,1,1,1,"Male",61,"Degree","Unemployed","White","Catholic","Married",2,3,3,2,1,1,1,2,1,2
+"1044",8,1,7,1,1,2,1,"Male",74,"High School","Unemployed","White","None","Married",3,2,2,2,2,1,1,2,2,3
+"1045",10,1,3,1,1,2,1,"Male",22,"Some College","Full Time","Hispanic","Catholic","Single",1,4,3,3,1,1,1,2,2,1
+"1046",10,1,2,1,1,2,1,"Female",21,"High School","Full Time","Hispanic","Christian","Married",1,2,4,2,1,1,1,2,1,4
+"1047",8,9,2,1,2,1,1,"Male",31,"High School","Full Time","Black","Christian","Separated",3,3,2,3,1,1,1,1,2,1
+"1048",10,2,2,1,1,1,1,"Male",26,"Degree","Full Time","Black","Christian","Single",1,1,4,4,1,1,1,2,1,1
+"1049",1,3,7,0,2,4,1,"Male",20,"High School","Part Time","Hispanic","None","Single",4,2,2,3,1,1,2,2,2,2
+"1050",7,6,3,1,2,2,1,"Male",19,"High School","Other","Hispanic","None","Single",2,5,1,4,1,1,1,2,2,1
+"1051",10,1,4,1,1,2,1,"Female",59,"Degree","Full Time","White","Other","Married",1,2,3,3,1,1,1,2,2,1
+"1052",10,1,3,1,1,1,1,"Female",35,"High School","Part Time","Hispanic","Catholic","Single",3,2,1,2,1,1,1,1,2,1
+"1053",8,1,4,1,1,2,1,"Female",28,"High School","Full Time","White","None","Married",2,1,4,2,1,1,1,2,2,1
+"1054",10,5,1,1,1,2,1,"Male",42,"Degree","Self Employed","Hispanic",NA,"Married",2,2,3,3,1,1,1,2,1,2
+"1055",10,1,1,1,2,1,1,"Female",43,"High School","Unemployed","Hispanic","Other","Married",3,2,2,2,2,1,1,2,1,1
+"1056",10,4,2,1,1,2,1,"Female",36,"High School","Unemployed","Hispanic","None","Married",1,1,4,2,1,1,1,2,2,1
+"1057",10,10,3,1,1,1,1,"Female",66,"High School","Part Time","White","Other","Widowed",1,3,4,2,1,1,1,2,2,1
+"1058",10,1,2,1,1,1,1,"Female",70,"Primary School","Part Time","White","Other","Widowed",2,3,3,3,1,1,1,2,1,1
+"1059",10,2,2,1,1,1,1,"Male",18,"High School","Other","Hispanic","None","Single",1,2,4,1,1,1,1,2,1,1
+"1060",10,6,1,1,1,1,1,"Male",70,"High School","Unemployed","White","Other","Married",1,1,1,1,1,1,1,2,1,2
+"1061",10,3,3,1,1,1,1,"Male",38,"High School","Full Time","White","Other","Married",2,1,2,4,1,1,1,2,2,4
+"1062",10,1,2,1,1,1,1,"Female",72,"High School","Part Time","White","Other","Widowed",3,1,4,1,1,1,1,2,1,1
+"1063",10,1,2,1,1,1,1,"Female",51,"High School","Other","Hispanic","Catholic","Married",3,3,3,3,1,1,1,2,1,1
+"1064",10,1,3,1,1,1,1,"Female",20,"High School","Other","White","Other","Married",2,1,5,1,1,1,1,2,1,1
+"1065",10,5,7,1,1,3,1,"Female",42,"High School","Full Time","White","Catholic","Single",3,1,5,3,1,2,1,2,2,1
+"1066",10,1,1,1,1,1,1,"Male",74,"High School","Unemployed","White","Other","Married",2,2,3,2,1,1,1,2,1,1
+"1067",10,1,7,1,1,1,1,"Male",44,"High School","Full Time","Black","Other","Married",2,1,3,3,1,1,1,1,1,1
+"1068",10,1,3,1,1,1,1,"Female",42,"High School","Housewife","Black","Other","Married",1,1,5,1,1,1,1,2,1,1
+"1069",6,1,6,0,2,3,1,"Male",43,"Degree","Full Time","Black","Christian","Married",2,5,1,5,1,1,1,2,2,1
+"1070",8,1,4,1,1,2,1,"Male",57,"Degree","Self Employed","White","Christian","Married",3,4,2,2,1,1,1,2,1,2
+"1071",10,1,2,1,1,1,1,"Female",41,"Some College","Housewife","White","Catholic","Married",1,1,4,1,1,1,1,2,1,1
+"1072",10,3,1,1,1,1,1,"Male",53,"Degree","Full Time","White","Catholic","Single",1,2,5,1,1,1,1,2,1,1
+"1073",10,4,2,1,1,1,1,"Female",42,"Degree","Self Employed","White","Catholic","Single",1,4,4,3,1,1,1,2,1,1
+"1074",1,1,7,0,2,4,1,"Male",41,"Some College","Full Time","White","Other","Single",3,5,1,5,1,2,2,2,2,3
+"1075",5,5,5,1,1,3,1,"Female",62,"Degree","Full Time","White","None","Single",3,4,3,3,1,-1,1,2,2,2
+"1076",10,1,2,1,1,1,1,"Male",68,"Primary School","Unemployed","White","Catholic","Married",2,3,2,3,1,1,1,2,1,1
+"1077",10,5,7,1,2,4,1,"Female",51,"Degree","Self Employed","White","None","Married",3,5,3,3,1,2,1,2,2,1
+"1078",8,1,6,1,1,2,1,"Female",72,"Degree","Part Time","White","Other","Married",2,3,2,3,1,1,1,2,2,2
+"1079",10,1,1,1,1,1,1,"Female",46,"Degree","Housewife","White","Christian","Married",2,-1,4,2,1,1,1,2,1,1
+"1080",8,1,4,1,1,2,1,"Male",60,"Degree","Full Time","Other","Other","Married",1,1,1,1,1,1,1,2,2,1
+"1081",10,3,3,1,1,1,1,"Male",58,"High School","Unemployed","White","Christian","Single",2,2,4,2,1,1,1,2,1,2
+"1082",10,2,3,1,1,2,1,"Male",48,"High School","Full Time","Black","Christian","Separated",1,4,3,3,1,1,1,2,1,1
+"1083",10,3,1,1,1,1,1,"Male",61,"Degree","Full Time","Black","Christian","Widowed",1,3,2,2,1,1,1,2,1,1
+"1084",10,1,1,1,1,1,1,"Female",57,"Degree","Full Time","Other",NA,"Married",1,1,1,1,1,1,1,2,1,2
+"1085",10,1,3,1,1,2,1,"Male",44,"Some College","Full Time","Black","Other","Married",1,1,3,2,1,1,1,2,1,1
+"1086",10,4,2,1,1,1,1,"Male",48,"High School","Full Time","Black","Christian","Married",1,2,4,2,1,1,1,1,1,1
+"1087",10,1,2,1,1,1,1,"Male",64,"Degree","Unemployed","White","Catholic","Married",1,5,4,3,1,1,1,2,1,1
+"1088",6,2,3,1,1,2,1,"Female",51,"Some College","Full Time","White",NA,"Separated",2,4,4,2,1,1,1,2,1,3
+"1089",10,1,1,1,1,1,1,"Female",41,"Degree","Full Time","Black","Other","Married",1,1,4,2,1,1,1,2,1,1
+"1090",10,1,1,1,1,1,1,"Female",46,"Degree","Full Time","Black","Other","Married",1,2,4,2,1,1,1,2,1,1
+"1091",10,6,5,1,1,3,1,"Female",30,"Primary School","Full Time","White","Other","Married",2,3,3,3,1,1,1,2,2,2
+"1092",10,1,2,1,1,1,1,"Female",58,"Some College","Housewife","White","Christian","Married",1,2,4,2,1,1,1,2,1,1
+"1093",10,5,7,1,1,1,1,"Male",31,"Primary School","Unemployed","White","None","Married",3,1,1,1,1,1,1,1,2,1
+"1094",10,1,7,1,1,4,1,"Female",28,"Degree","Full Time","White","None","Single",4,4,4,5,1,2,1,2,2,1
+"1095",8,1,5,1,1,2,1,"Female",61,"Some College","Unemployed","White","Christian","Married",3,4,3,3,1,2,1,2,2,2
+"1096",10,1,3,1,1,1,1,"Female",54,"Some College","Full Time","Hispanic","Catholic","Married",2,3,4,2,1,1,1,2,1,1
+"1097",6,1,3,1,1,3,1,"Male",38,"Degree","Full Time","White","Christian","Single",1,5,2,4,1,1,1,2,2,3
+"1098",8,1,2,1,1,1,1,"Female",19,"Some College","Part Time","White","Judaism","Single",2,5,3,5,1,1,1,2,1,2
+"1099",10,1,2,1,1,1,1,"Male",60,"Degree","Full Time","White","Other","Separated",2,2,3,2,1,1,1,2,1,2
+"1100",10,1,7,1,1,3,1,"Female",51,"High School","Full Time","White","None","Separated",2,2,2,3,1,1,1,2,2,3
+"1101",10,1,2,1,1,1,1,"Male",59,"Degree","Full Time","White","Other","Married",1,3,5,2,1,1,1,2,1,1
+"1102",10,1,1,1,1,1,1,"Male",75,"Degree","Part Time","White","Other","Separated",2,5,1,5,1,1,1,2,1,1
+"1103",7,1,5,1,1,3,1,"Female",38,"Degree","Full Time","White","Christian","Married",1,4,2,3,1,1,1,2,2,2
+"1104",10,1,3,1,1,1,1,"Female",64,"Degree","Part Time","White","Christian","Married",2,4,4,3,1,2,1,2,1,1
+"1105",10,3,2,1,2,1,1,"Male",44,"High School","Full Time","White","Catholic","Separated",1,4,4,4,1,1,1,2,1,3
+"1106",3,1,7,0,1,1,1,"Male",71,"High School","Unemployed","White","Christian","Married",1,4,2,3,1,1,1,2,2,1
+"1107",10,1,1,1,1,1,1,"Female",37,"Degree","Full Time","White","Christian","Married",2,3,4,1,1,1,1,2,1,1
+"1108",1,1,7,1,2,4,1,"Male",20,"Primary School","Part Time","Other",NA,"Single",3,4,2,4,1,2,2,1,2,1
+"1109",10,1,2,1,1,1,1,"Female",69,"Primary School","Housewife","White","Christian","Married",1,3,2,1,1,1,1,2,1,1
+"1110",8,1,6,1,1,1,1,"Female",50,"High School","Full Time","Black",NA,"Single",1,2,4,3,1,1,1,2,2,2
+"1111",10,1,2,1,1,1,1,"Female",29,"Degree","Full Time","White","Christian","Married",2,2,2,2,1,1,1,2,1,3
+"1112",10,1,3,1,1,1,1,"Female",40,"Degree","Full Time","White","Catholic","Separated",3,4,2,4,1,1,1,2,1,1
+"1113",1,1,3,1,1,1,1,"Male",56,"High School","Full Time","Black","Christian","Married",2,2,2,3,1,1,1,2,2,1
+"1114",10,1,2,1,1,1,1,"Female",51,"High School","Full Time","White","Other","Married",1,1,2,1,1,1,1,2,1,1
+"1115",5,1,7,1,1,3,1,"Male",40,"Degree","Full Time","White","None","Married",3,4,3,5,1,1,1,2,2,3
+"1116",5,5,7,1,1,2,1,"Male",48,"High School","Self Employed","Other","None","Single",4,3,2,3,1,1,1,1,2,2
+"1117",10,1,1,1,1,1,1,"Male",60,"High School","Part Time","Black","Other","Widowed",1,2,2,2,1,1,1,2,1,2
+"1118",10,1,7,1,1,1,1,"Female",51,"Primary School","Other","White","Christian","Separated",1,4,4,2,1,1,1,2,2,1
+"1119",9,8,2,1,1,1,1,"Male",18,"High School","Unemployed","White","Other","Single",1,2,3,3,1,1,1,2,1,2
+"1120",10,1,6,1,1,1,1,"Female",60,"High School","Unemployed","White","Christian","Separated",2,3,4,2,1,1,1,2,1,1
+"1121",10,1,2,1,1,1,1,"Female",74,"Primary School","Unemployed","White","Christian","Married",1,1,2,2,1,1,1,2,1,1
+"1122",10,3,2,1,1,1,1,"Male",42,"High School","Self Employed","Black","Christian","Single",1,3,2,4,1,1,1,2,1,1
+"1123",10,1,1,1,1,1,1,"Female",46,"Some College","Other","White","Christian","Married",1,1,5,1,1,1,1,2,1,1
+"1124",8,2,7,1,2,3,1,"Male",39,"Some College","Full Time","White","None","Married",3,4,2,5,1,1,1,2,2,3
+"1125",10,1,7,1,1,1,1,"Female",41,"High School","Part Time","Black","Christian","Single",1,1,1,3,1,1,1,2,2,1
+"1126",10,1,3,1,1,1,1,"Male",20,"Some College","Full Time","White","Christian","Single",1,4,4,2,1,1,1,2,2,1
+"1127",10,1,1,1,1,1,1,"Female",29,"High School","Full Time","White","Christian","Married",1,3,2,2,1,1,1,2,1,2
+"1128",10,3,2,1,1,2,1,"Male",23,"Degree","Full Time","White","None","Married",2,2,4,3,1,1,1,2,1,2
+"1129",10,1,2,1,1,1,1,"Female",38,"Some College","Housewife","White","Other","Married",2,2,2,1,1,1,1,2,1,1
+"1130",10,1,1,1,1,1,1,"Male",84,"Degree","Part Time","White","Other","Married",1,4,5,1,1,1,1,2,1,1
+"1131",9,5,5,1,1,4,1,"Female",35,"Primary School","Full Time","White","None","Single",3,1,2,2,1,1,1,2,2,1
+"1132",10,1,3,1,1,2,1,"Male",33,"High School","Other","White","Catholic","Married",1,2,3,2,1,1,1,2,2,2
+"1133",10,1,2,1,1,1,1,"Male",73,"Some College","Self Employed","White","Other","Married",1,2,4,2,1,1,1,2,1,1
+"1134",9,1,5,1,1,2,1,"Female",35,"High School","Full Time","White","None","Single",1,3,3,2,1,1,1,2,2,1
+"1135",10,1,1,1,1,1,1,"Female",19,"Some College","Part Time","White","Christian","Single",1,2,5,1,1,1,1,2,1,1
+"1136",10,1,6,1,1,2,1,"Female",40,"High School","Full Time","White","Other","Married",1,2,2,2,1,1,1,2,2,4
+"1137",10,1,2,1,1,1,1,"Female",65,"Primary School","Part Time","White","Christian","Widowed",1,2,2,1,1,1,1,2,1,1
+"1138",9,2,3,1,1,2,1,"Male",22,"Some College","Full Time","White","Christian","Single",2,4,4,4,1,1,1,2,1,2
+"1139",10,1,1,1,1,1,1,"Male",38,"High School","Full Time","White","Other","Married",1,4,4,2,1,1,1,2,1,2
+"1140",6,2,6,1,1,1,1,"Male",29,"Primary School","Full Time","White","Other","Single",1,4,2,4,1,-1,-1,1,2,1
+"1141",10,1,2,1,1,1,1,"Male",41,"Some College","Full Time","White","Christian","Married",1,2,2,1,1,1,1,2,1,1
+"1142",10,1,1,1,1,1,1,"Female",52,"Some College","Self Employed","White","Catholic","Married",1,4,3,3,1,1,1,2,1,1
+"1143",9,1,3,1,1,2,1,"Female",46,"High School","Full Time","White","Christian","Married",1,3,2,3,1,1,1,1,1,1
+"1144",9,1,3,1,1,2,1,"Female",49,"High School","Part Time","White","Christian","Married",1,4,2,3,1,1,1,1,1,2
+"1145",5,1,7,1,1,3,1,"Female",51,"Degree","Unemployed","White","None","Separated",2,4,2,4,1,-1,1,2,2,2
+"1146",5,1,7,1,1,2,1,"Male",59,"Degree","Full Time","White","Christian","Married",1,4,4,2,-1,-1,1,2,2,3
+"1147",10,2,2,1,1,2,1,"Female",77,"Some College","Unemployed","White","Christian","Widowed",1,3,2,2,1,1,1,2,1,2
+"1148",9,1,7,1,1,1,1,"Male",70,"Degree","Unemployed","White","Catholic","Separated",2,4,2,2,1,1,1,2,1,-1
+"1149",8,1,6,1,1,2,1,"Male",35,"Degree","Full Time","White","Other","Married",2,4,5,3,1,1,1,2,2,1
+"1150",6,1,3,1,1,1,1,"Female",61,"High School","Part Time","White","Christian","Married",2,3,2,3,1,1,1,1,1,1
+"1151",9,1,7,0,2,2,1,"Male",23,"High School","Full Time","White","None","Single",2,4,3,4,1,1,1,2,2,3
+"1152",10,1,7,1,1,2,1,"Female",66,"Primary School","Unemployed","White","Christian","Married",1,2,4,2,1,1,1,2,2,1
+"1153",10,1,1,1,1,1,1,"Female",32,"Degree","Other","White","Christian","Separated",2,4,2,3,1,1,1,2,1,1
+"1154",8,3,3,1,1,1,1,"Male",43,"Some College","Full Time","White","Christian","Married",1,3,2,2,1,1,1,2,1,1
+"1155",10,1,1,1,1,1,1,"Female",35,"High School","Housewife","White","Christian","Married",2,2,4,1,1,1,1,2,1,1
+"1156",9,2,4,1,1,2,1,"Male",47,"Some College","Full Time","White","Christian","Married",2,3,2,3,1,1,1,2,1,4
+"1157",8,4,5,1,2,4,1,"Male",74,"Some College","Unemployed","White","Christian","Married",3,4,2,5,2,2,1,2,1,1
+"1158",1,8,6,0,2,1,1,"Female",27,"High School","Full Time","Black","None","Single",1,4,-1,-1,2,2,2,2,2,4
+"1159",7,2,3,1,1,2,1,"Female",31,"Degree","Full Time","White","Christian","Married",2,4,3,4,1,1,1,2,1,2
+"1160",10,4,7,1,1,2,1,"Male",29,"High School","Other","White",NA,"Married",2,4,1,3,1,1,1,2,2,2
+"1161",10,6,1,1,1,1,1,"Female",25,"Some College","Full Time","Black","Other","Married",1,1,4,1,1,1,1,2,1,1
+"1162",7,2,4,0,1,3,1,"Male",54,"High School","Full Time","White","None","Widowed",2,4,4,2,1,1,1,2,2,2
+"1163",10,2,1,1,1,1,1,"Female",33,"Degree","Part Time","White","Christian","Married",2,4,3,3,1,1,1,2,1,1
+"1164",10,1,1,1,1,1,1,"Male",68,"Degree","Unemployed","White","Christian","Married",2,3,4,1,1,1,1,2,1,1
+"1165",10,1,6,1,1,1,1,"Female",46,"Some College","Full Time","White","Christian","Single",2,3,2,1,1,1,1,2,1,1
+"1166",10,2,1,1,1,1,1,"Male",20,"Degree","Full Time","White","Christian","Single",2,2,4,2,1,1,1,2,1,3
+"1167",10,4,5,1,1,1,1,"Male",25,"Primary School","Full Time","Black","Christian","Single",2,2,2,4,1,1,1,1,2,1
+"1168",8,1,7,1,2,3,1,"Male",31,"Degree","Full Time","White","None","Single",2,3,1,3,1,1,1,2,2,2
+"1169",7,2,3,1,1,2,1,"Male",74,"Primary School","Unemployed","White","Catholic","Single",2,3,2,3,1,-1,1,2,1,2
+"1170",10,1,1,1,1,1,1,"Male",83,"High School","Unemployed","White","Christian","Married",2,1,-1,2,1,1,1,2,1,3
+"1171",9,1,2,1,1,1,1,"Female",63,"Some College","Unemployed","White","Christian","Married",1,3,1,2,1,1,1,2,2,2
+"1172",10,1,2,1,1,1,1,"Female",73,"Some College","Unemployed","White","Catholic","Married",2,2,2,3,1,1,1,2,1,1
+"1173",10,1,2,1,1,1,1,"Female",53,"Degree","Full Time","White","Catholic","Married",2,5,4,3,1,1,1,2,1,1
+"1174",10,1,2,1,1,1,1,"Male",43,"High School","Full Time","White","Christian","Separated",1,5,4,1,1,1,1,2,1,1
+"1175",10,1,2,1,1,1,1,"Female",45,"High School","Full Time","White","Christian","Married",1,1,4,1,1,1,1,2,1,1
+"1176",10,1,1,1,1,1,1,"Female",59,"High School","Other","White","Christian","Separated",2,1,2,2,1,1,1,2,1,1
+"1177",10,1,1,1,1,1,1,"Female",74,"High School","Unemployed","White","Christian","Married",2,2,4,1,1,1,1,2,1,1
+"1178",10,1,1,1,1,1,1,"Female",43,"Some College","Full Time","White","Other","Separated",2,1,4,1,1,1,1,2,1,2
+"1179",10,1,1,1,1,1,1,"Male",24,"High School","Part Time","White","Other","Married",4,3,1,5,2,1,1,2,1,1
+"1180",7,4,3,1,1,2,1,"Female",21,"Some College","Other","White","Other","Single",2,4,3,4,1,1,1,2,1,1
+"1181",8,1,2,1,1,2,1,"Male",69,"Degree","Unemployed","White","Christian","Married",2,3,4,4,1,1,1,2,1,2
+"1182",10,1,2,1,1,1,1,"Female",48,"Some College","Full Time","White","Other","Married",1,4,4,2,1,1,1,2,1,2
+"1183",9,10,7,1,1,1,1,"Male",25,NA,"Full Time","White","Other","Married",3,2,1,3,1,1,1,1,2,1
+"1184",10,1,3,1,1,1,1,"Female",38,"Primary School","Unemployed","White","None","Single",2,1,4,2,1,1,1,2,1,1
+"1185",10,1,2,1,1,1,1,"Female",35,"Degree","Full Time","White","Other","Separated",1,2,4,2,1,1,1,2,1,1
+"1186",10,1,2,1,1,1,1,"Male",23,"Degree","Unemployed","White","Other","Single",1,2,4,1,1,1,1,2,1,1
+"1187",10,1,1,1,1,1,1,"Male",42,"Degree","Full Time","White","Christian","Married",1,3,5,1,1,1,1,2,1,1
+"1188",5,2,5,1,1,2,1,"Male",44,"High School","Full Time","White","Christian","Married",2,2,4,2,1,1,1,2,2,2
+"1189",10,1,1,1,1,1,1,"Female",65,"High School","Part Time","Hispanic","Christian","Married",1,4,2,2,1,1,1,2,1,1
+"1190",10,10,5,1,1,1,1,"Male",25,"High School","Full Time","Hispanic","None","Single",1,3,2,3,1,1,1,2,2,1
+"1191",10,1,3,1,1,1,1,"Male",34,"Some College","Full Time","Hispanic","Catholic","Married",1,1,1,1,1,1,1,2,1,2
+"1192",10,1,1,1,1,1,1,"Female",25,"Some College","Unemployed","Hispanic","Catholic","Married",1,4,4,1,1,1,1,2,1,1
+"1193",5,1,4,1,2,2,1,"Male",20,"High School","Full Time","White","Catholic","Single",2,3,3,3,1,1,1,1,2,1
+"1194",10,1,5,1,1,1,1,"Female",37,"High School","Housewife","Hispanic","Catholic","Married",1,2,4,4,1,1,1,1,2,1
+"1195",10,1,1,1,1,1,1,"Female",38,"High School","Housewife","Hispanic","Christian","Married",1,4,3,2,1,1,1,1,1,1
+"1196",5,1,6,1,1,2,1,"Male",23,"High School","Full Time","Hispanic","Catholic","Married",3,4,2,4,1,1,1,1,2,1
+"1197",10,1,7,1,1,1,1,"Female",40,"High School","Full Time","White","Christian","Married",2,1,2,1,1,1,1,2,1,2
+"1198",10,6,3,1,1,1,1,"Male",26,"Some College","Full Time","Hispanic",NA,"Married",1,2,1,1,1,1,1,2,2,2
+"1199",8,2,4,0,1,2,1,"Male",61,"Degree","Self Employed","Hispanic","Christian","Married",2,3,1,3,1,1,1,2,1,3
+"1200",10,1,3,1,1,1,1,"Female",60,"High School","Unemployed","White","Other","Married",3,4,5,3,1,1,1,2,2,1
